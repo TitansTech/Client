@@ -2,7 +2,7 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9,00"
-	Name="XMuGuiEngine"
+	Name="TitanGuiEngine"
 	ProjectGUID="{BC327C9A-C2E3-44DD-B49F-04B33E9D4AF8}"
 	RootNamespace="SCFMain2"
 	Keyword="ManagedCProj"
@@ -18,7 +18,7 @@
 	<Configurations>
 		<Configuration
 			Name="Debug|Win32"
-			OutputDirectory="D:\Juegos\MU_S5 - copia\"
+			OutputDirectory="D:\Juegos\MuOnline-Clientes\Webzen\Mu\"
 			IntermediateDirectory="$(ConfigurationName)"
 			ConfigurationType="2"
 			UseOfATL="0"
@@ -63,9 +63,9 @@
 			/>
 			<Tool
 				Name="VCLinkerTool"
-				OutputFile="$(OutDir)/XMuGuiEngine.dll"
+				OutputFile="$(OutDir)/TitanGuiEngine.dll"
 				LinkIncremental="2"
-				ModuleDefinitionFile=".\XMuGuiEngine.def"
+				ModuleDefinitionFile=".\TitanGuiEngine.def"
 				GenerateDebugInformation="true"
 				AssemblyDebug="1"
 				ResourceOnlyDLL="true"
@@ -97,7 +97,7 @@
 		</Configuration>
 		<Configuration
 			Name="Release|Win32"
-			OutputDirectory="D:\Juegos\MU_S5 - copia\"
+			OutputDirectory="E:\Juegos\MU 1.07\"
 			IntermediateDirectory="$(ConfigurationName)"
 			ConfigurationType="2"
 			CharacterSet="0"
@@ -142,9 +142,9 @@
 			/>
 			<Tool
 				Name="VCLinkerTool"
-				OutputFile="$(OutDir)/XMuGuiEngine.dll"
+				OutputFile="$(OutDir)/TitanGuiEngine.dll"
 				LinkIncremental="2"
-				ModuleDefinitionFile=".\XMuGuiEngine.def"
+				ModuleDefinitionFile=".\TitanGuiEngine.def"
 				GenerateDebugInformation="false"
 				ResourceOnlyDLL="true"
 				RandomizedBaseAddress="1"
@@ -201,9 +201,9 @@
 			MinFrameworkVersion="131072"
 		/>
 		<AssemblyReference
-			RelativePath=".\ICSharpCode.SharpZipLib.dll"
-			AssemblyName="ICSharpCode.SharpZipLib, Version=0.85.5.452, processorArchitecture=MSIL"
-			MinFrameworkVersion="0"
+			RelativePath=".\TitanGUIAddOn.dll"
+			AssemblyName="TitanGUIAddOn, Version=1.0.0.0, processorArchitecture=MSIL"
+			MinFrameworkVersion="131072"
 		/>
 	</References>
 	<Files>
@@ -217,24 +217,7 @@
 				>
 			</File>
 			<File
-				RelativePath=".\MuTabControl.cpp"
-				>
-			</File>
-			<File
-				RelativePath=".\MuTabControl.h"
-				FileType="3"
-				>
-				<File
-					RelativePath=".\MuTabControl.resX"
-					>
-				</File>
-			</File>
-			<File
 				RelativePath=".\SCFMain2.cpp"
-				>
-			</File>
-			<File
-				RelativePath=".\SCFVShop.cpp"
 				>
 			</File>
 			<File
@@ -257,10 +240,6 @@
 					/>
 				</FileConfiguration>
 			</File>
-			<File
-				RelativePath=".\winVip.cpp"
-				>
-			</File>
 		</Filter>
 		<Filter
 			Name="Archivos de encabezado"
@@ -268,15 +247,23 @@
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
 			<File
+				RelativePath=".\cMuTab.h"
+				>
+			</File>
+			<File
+				RelativePath=".\cTitanShop.h"
+				>
+			</File>
+			<File
 				RelativePath=".\EngineConnection.h"
 				>
 			</File>
 			<File
-				RelativePath=".\Offsets.h"
+				RelativePath=".\Externs.h"
 				>
 			</File>
 			<File
-				RelativePath=".\ReadScript.h"
+				RelativePath=".\Packets.h"
 				>
 			</File>
 			<File
@@ -288,24 +275,15 @@
 				>
 			</File>
 			<File
-				RelativePath=".\SCFVShop.h"
-				>
-			</File>
-			<File
 				RelativePath=".\Stdafx.h"
 				>
 			</File>
 			<File
-				RelativePath=".\winVip.h"
-				FileType="3"
+				RelativePath=".\TitanGuiEngine.def"
 				>
-				<File
-					RelativePath=".\winVip.resx"
-					>
-				</File>
 			</File>
 			<File
-				RelativePath=".\XMuGuiEngine.def"
+				RelativePath=".\Utils.h"
 				>
 			</File>
 		</Filter>
@@ -322,16 +300,12 @@
 				RelativePath=".\app.rc"
 				>
 			</File>
-		</Filter>
-		<Filter
-			Name="AntiHack"
-			>
 			<File
-				RelativePath=".\AntiHack\AntiHack.cpp"
+				RelativePath=".\check_0.bmp"
 				>
 			</File>
 			<File
-				RelativePath=".\Headers\AntiHack.h"
+				RelativePath=".\check_1.bmp"
 				>
 			</File>
 		</Filter>

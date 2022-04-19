@@ -15,8 +15,6 @@
 #include <math.h>
 #include <stdio.h>
 #include <process.h>
-#include "ReadScript.h"
 //#define _WIN32_WINNT    0x0500
 static HINSTANCE hInstance;
-
-#pragma warning(disable:4244 4005 4996 4005 4102 4091 4700 4070 4793 4747)
+#pragma warning(disable:4965 4244 4005 4996 4005 4102 4091 4700 4070 4793 4747)

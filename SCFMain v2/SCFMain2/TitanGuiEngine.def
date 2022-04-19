@@ -1,0 +1,12 @@
+LIBRARY      "TitanGuiEngine"
+
+EXPORTS
+	Init ;
+	GET_VShopClose ;
+	GET_VShopInfo ;
+	GET_VShopShow ;
+	LauncherExec ;
+	GET_MarryInfo ;
+	GET_WebInfo ;
+	GET_OpenMuTab;
+	GET_CloseMuTab;

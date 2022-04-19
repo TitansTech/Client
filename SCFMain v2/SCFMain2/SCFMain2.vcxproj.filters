@@ -13,44 +13,32 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
     </Filter>
-    <Filter Include="AntiHack">
-      <UniqueIdentifier>{2d52b968-1f22-40e8-9675-6499ef09003d}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AssemblyInfo.cpp">
       <Filter>Archivos de código fuente</Filter>
     </ClCompile>
-    <ClCompile Include="MuTabControl.cpp">
-      <Filter>Archivos de código fuente</Filter>
-    </ClCompile>
     <ClCompile Include="SCFMain2.cpp">
-      <Filter>Archivos de código fuente</Filter>
-    </ClCompile>
-    <ClCompile Include="SCFVShop.cpp">
       <Filter>Archivos de código fuente</Filter>
     </ClCompile>
     <ClCompile Include="Stdafx.cpp">
       <Filter>Archivos de código fuente</Filter>
     </ClCompile>
-    <ClCompile Include="winVip.cpp">
-      <Filter>Archivos de código fuente</Filter>
-    </ClCompile>
-    <ClCompile Include="AntiHack\AntiHack.cpp">
-      <Filter>AntiHack</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MuTabControl.h">
-      <Filter>Archivos de código fuente</Filter>
+    <ClInclude Include="cMuTab.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="cTitanShop.h">
+      <Filter>Archivos de encabezado</Filter>
     </ClInclude>
     <ClInclude Include="EngineConnection.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="Offsets.h">
+    <ClInclude Include="Externs.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="ReadScript.h">
+    <ClInclude Include="Packets.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
     <ClInclude Include="resource.h">
@@ -59,24 +47,24 @@
     <ClInclude Include="SCFMain2.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="SCFVShop.h">
-      <Filter>Archivos de encabezado</Filter>
-    </ClInclude>
     <ClInclude Include="Stdafx.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="winVip.h">
+    <ClInclude Include="Utils.h">
       <Filter>Archivos de encabezado</Filter>
-    </ClInclude>
-    <ClInclude Include="Headers\AntiHack.h">
-      <Filter>AntiHack</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="XMuGuiEngine.def">
+    <None Include="TitanGuiEngine.def">
       <Filter>Archivos de encabezado</Filter>
     </None>
     <None Include="app.ico">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="check_0.bmp">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="check_1.bmp">
       <Filter>Archivos de recursos</Filter>
     </None>
     <None Include="ReadMe.txt" />
@@ -85,13 +73,5 @@
     <ResourceCompile Include="app.rc">
       <Filter>Archivos de recursos</Filter>
     </ResourceCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="MuTabControl.resX">
-      <Filter>Archivos de recursos</Filter>
-    </EmbeddedResource>
-    <EmbeddedResource Include="winVip.resx">
-      <Filter>Archivos de recursos</Filter>
-    </EmbeddedResource>
   </ItemGroup>
 </Project>

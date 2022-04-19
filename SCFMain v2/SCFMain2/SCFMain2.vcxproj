@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectName>XMuGuiEngine</ProjectName>
+    <ProjectName>TitanGuiEngine</ProjectName>
     <ProjectGuid>{BC327C9A-C2E3-44DD-B49F-04B33E9D4AF8}</ProjectGuid>
     <RootNamespace>SCFMain2</RootNamespace>
     <Keyword>ManagedCProj</Keyword>
@@ -41,10 +41,10 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
     <_ProjectFileVersion>10.0.40219.1</_ProjectFileVersion>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:\Juegos\MU_S5 - copia\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:\Juegos\MuOnline-Clientes\Webzen\Mu\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Configuration)\</IntDir>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:\Juegos\MU_S5 - copia\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">E:\Juegos\MU 1.07\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Configuration)\</IntDir>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</LinkIncremental>
     <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">AllRules.ruleset</CodeAnalysisRuleSet>
@@ -68,8 +68,8 @@
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
     </ClCompile>
     <Link>
-      <OutputFile>$(OutDir)XMuGuiEngine.dll</OutputFile>
-      <ModuleDefinitionFile>.\XMuGuiEngine.def</ModuleDefinitionFile>
+      <OutputFile>$(OutDir)TitanGuiEngine.dll</OutputFile>
+      <ModuleDefinitionFile>.\TitanGuiEngine.def</ModuleDefinitionFile>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AssemblyDebug>true</AssemblyDebug>
       <NoEntryPoint>true</NoEntryPoint>
@@ -94,8 +94,8 @@
       </DebugInformationFormat>
     </ClCompile>
     <Link>
-      <OutputFile>$(OutDir)XMuGuiEngine.dll</OutputFile>
-      <ModuleDefinitionFile>.\XMuGuiEngine.def</ModuleDefinitionFile>
+      <OutputFile>$(OutDir)TitanGuiEngine.dll</OutputFile>
+      <ModuleDefinitionFile>.\TitanGuiEngine.def</ModuleDefinitionFile>
       <GenerateDebugInformation>false</GenerateDebugInformation>
       <NoEntryPoint>true</NoEntryPoint>
       <RandomizedBaseAddress>false</RandomizedBaseAddress>
@@ -125,55 +125,40 @@
       <CopyLocalSatelliteAssemblies>true</CopyLocalSatelliteAssemblies>
       <ReferenceOutputAssembly>true</ReferenceOutputAssembly>
     </Reference>
-    <Reference Include="ICSharpCode.SharpZipLib, Version=0.85.5.452, Culture=neutral, PublicKeyToken=null">
-      <HintPath>ICSharpCode.SharpZipLib.dll</HintPath>
+    <Reference Include="TitanGUIAddOn, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>TitanGUIAddOn.dll</HintPath>
       <CopyLocalSatelliteAssemblies>true</CopyLocalSatelliteAssemblies>
       <ReferenceOutputAssembly>true</ReferenceOutputAssembly>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AssemblyInfo.cpp" />
-    <ClCompile Include="MuTabControl.cpp" />
     <ClCompile Include="SCFMain2.cpp" />
-    <ClCompile Include="SCFVShop.cpp" />
     <ClCompile Include="Stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="winVip.cpp" />
-    <ClCompile Include="AntiHack\AntiHack.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MuTabControl.h">
-      <FileType>CppForm</FileType>
-    </ClInclude>
+    <ClInclude Include="cMuTab.h" />
+    <ClInclude Include="cTitanShop.h" />
     <ClInclude Include="EngineConnection.h" />
-    <ClInclude Include="Offsets.h" />
-    <ClInclude Include="ReadScript.h" />
+    <ClInclude Include="Externs.h" />
+    <ClInclude Include="Packets.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="SCFMain2.h" />
-    <ClInclude Include="SCFVShop.h" />
     <ClInclude Include="Stdafx.h" />
-    <ClInclude Include="winVip.h">
-      <FileType>CppForm</FileType>
-    </ClInclude>
-    <ClInclude Include="Headers\AntiHack.h" />
+    <ClInclude Include="Utils.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="XMuGuiEngine.def" />
+    <None Include="TitanGuiEngine.def" />
     <None Include="app.ico" />
+    <None Include="check_0.bmp" />
+    <None Include="check_1.bmp" />
     <None Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="app.rc" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="MuTabControl.resX">
-      <DependentUpon>MuTabControl.h</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="winVip.resx">
-      <DependentUpon>winVip.h</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
