@@ -56,5 +56,20 @@ struct SDHP_BUYSVSHOP
 	BYTE mHarmony;
 };
 
+struct SDHP_RECVMARRY
+{
+	PBMSG_HEAD h;	// C1:FA:10
+	BYTE SubCode;
+	char Name[11];
+	int Divorce;
+	int ForceDivorce;
+	int TraceCost;
+	BYTE Map;
+	BYTE Xpos1;
+	BYTE Ypos1;
+	BYTE Xpos2;
+	BYTE Ypos2;
+};
+
 extern void PHeadSetB(LPBYTE lpBuf, BYTE head, int size);
 extern void PHeadSubSetB(LPBYTE lpBuf, BYTE head, BYTE sub, int size);

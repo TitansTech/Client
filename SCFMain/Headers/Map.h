@@ -13,13 +13,13 @@
 
 //MiniMap
 
-void MiniMapInit();
+//void MiniMapInit();
 
 //3DCamera
 
 
 
-void Display();
+//void Display();
 void Main3DInit();
 void Camera_Reset();
 

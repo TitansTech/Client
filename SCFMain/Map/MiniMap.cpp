@@ -1,10 +1,10 @@
 #include "../stdafx.h"
 #include <stdio.h>
-#include "../SCFMain.h" 
+#include "../TitanAddOn.h" 
 #include "../Offsets.h" 
 #include "../stdafx.h"
 #include "../Headers/Map.h"
-
+/*
 int IsMiniMap = 1;
 
 void LoadImageJgpForMap(char* ImagePatch,DWORD PrintCode)
@@ -86,6 +86,7 @@ void MapChecker2()
 	CallObject();
 }
 
+
 void MiniMapInit()
 {
 	*(BYTE*)(MiniMap_JNZ_NOP)	= 0x90;
@@ -97,3 +98,4 @@ void MiniMapInit()
 	*(DWORD*)(MiniMapCheck_2_Addr+1) = (DWORD)MapChecker1 - MiniMapCheck_2_Addr-5;
 	*(DWORD*)(MiniMapCheck_3_Addr+1) = (DWORD)MapChecker2 - MiniMapCheck_3_Addr-5;
 }
+*/
