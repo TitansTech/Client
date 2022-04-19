@@ -1,0 +1,11 @@
+LIBRARY      "XMuGuiEngine"
+
+EXPORTS
+	Init ;
+	SET_VShopBuy ;
+	GET_VShopClose ;
+	GET_VShopInfo ;
+	GET_VShopShow ;
+	gWall_AntiHack ;
+	LauncherExec ;
+	

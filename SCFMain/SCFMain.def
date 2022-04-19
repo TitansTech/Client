@@ -1,0 +1,5 @@
+LIBRARY      "SCFMain"
+
+EXPORTS
+	Init ;
+	GUICore ;

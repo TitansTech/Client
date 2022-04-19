@@ -1,0 +1,10 @@
+D:\Source\SCFLauncher\SCFLauncher\bin\Debug\SCFLauncher.exe.config
+D:\Source\SCFLauncher\SCFLauncher\bin\Debug\SCFLauncher.exe
+D:\Source\SCFLauncher\SCFLauncher\bin\Debug\SCFLauncher.pdb
+D:\Source\SCFLauncher\SCFLauncher\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\SCFLauncher\SCFLauncher\obj\Debug\SCFLauncher.Form1.resources
+D:\Source\SCFLauncher\SCFLauncher\obj\Debug\SCFLauncher.Properties.Resources.resources
+D:\Source\SCFLauncher\SCFLauncher\obj\Debug\SCFLauncher.csproj.GenerateResource.Cache
+D:\Source\SCFLauncher\SCFLauncher\obj\Debug\SCFLauncher.exe
+D:\Source\SCFLauncher\SCFLauncher\obj\Debug\SCFLauncher.pdb
+D:\Source\SCFLauncher\SCFLauncher\obj\Debug\SCFLauncher.Options.resources

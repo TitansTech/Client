@@ -1,0 +1,1063 @@
+1
+//Name
+"Swords"
+"Axes"
+"Maces"
+"Spears"
+"Bows"
+"Stafs"
+"Shields"
+"Helm"
+"Armor"
+"Pants"
+"Gloves"
+"Boots"
+"Misc1"
+"Misc2"
+"Misc3"
+"Scrolls"
+end
+2
+//
+0 0 "Kris" 0 0 6 11 0 1 1 1 1 1 1 1776
+0 1 "Short Sword" 0 0 3 7 0 1 1 1 1 1 1 1388
+0 2 "Rapier" 0 0 9 15 0 0 1 1 1 1 1 2067
+0 3 "Katache" 1 0 16 26 0 0 1 0 1 1 0 2940
+0 4 "Scimitar" 1 0 12 18 0 0 1 0 1 1 0 2455
+0 5 "Blade" 1 0 36 47 0 1 1 1 1 1 0 5074
+0 6 "Gladius" 1 0 20 30 0 0 1 1 1 1 0 3425
+0 7 "Falchion" 1 0 24 34 0 0 1 0 1 1 0 3813
+0 8 "Serpent Sword" 1 0 30 40 0 0 1 0 1 1 0 4395
+0 9 "Sword of Salamander" 1 0 32 46 0 0 1 0 1 0 0 4783
+0 10 "Light Saber" 1 0 47 61 0 0 1 1 1 0 0 5044
+0 11 "Legendary Sword" 1 0 56 72 0 0 1 0 1 0 0 5917
+0 12 "Heliacal Sword" 1 0 73 98 0 0 1 0 1 0 0 7857
+0 13 "Double Blade" 1 0 48 56 0 0 1 1 1 0 0 5238
+0 14 "Lighting Sword" 1 0 59 67 0 0 1 1 1 0 0 6402
+0 15 "Giant Sword" 1 0 60 85 0 0 1 0 1 0 0 6790
+0 16 "Sword of Destruction" 1 0 82 90 0 0 1 0 1 0 0 8148
+0 17 "Dark Breaker" 1 0 128 153 0 0 2 0 0 0 0 12416
+0 18 "Thunder Blade" 1 0 140 168 0 0 0 0 1 0 0 13289
+0 19 "Divine Sword of Archangel" 1 0 120 130 0 0 1 0 1 1 0 10864
+0 20 "Knight Blade" 1 0 107 115 0 0 2 0 0 0 0 11640
+0 21 "Dark Reign Blade" 1 0 115 142 115 0 0 0 1 0 0 14065
+0 22 "Bone Blade" 1 0 122 135 0 0 2 0 0 0 0 12998
+0 23 "Explosion Blade" 1 0 127 155 134 0 0 0 1 0 0 15229
+0 24 "Daybreak" 1 0 182 218 0 0 2 0 0 0 0 16587
+0 25 "Sword Dancer" 1 0 109 136 108 0 0 0 1 0 0 12804
+0 26 "Flamberge" 1 0 115 126 0 0 2 0 0 0 0 12222
+0 27 "Sword Bracker" 1 0 91 99 0 0 2 0 0 0 0 10379
+0 28 "Imperial Sword" 1 0 98 122 109 0 0 0 1 0 0 12707
+0 31 "Rune Blade" 1 0 104 130 104 0 0 0 1 0 0 11834
+0 100 "Berserker Blade" 1 0 180 199 0 0 1 0 1 0 0 16975
+0 101 "Kato Sword" 1 0 100 140 0 0 1 0 0 0 0 12125
+0 102 "Dark Knight Blade" 1 0 175 215 0 0 1 0 0 0 0 17072
+0 103 "Death Reign Blade" 1 0 128 147 0 0 1 0 0 0 0 13095
+0 104 "DreadFear Sword" 1 0 147 169 0 0 1 0 0 0 0 14938
+0 105 "Kundum Blade" 1 0 135 172 0 0 1 0 0 0 0 14065
+0 106 "Nightmare Sword" 1 0 170 200 0 0 0 0 1 0 0 16684
+0 107 "Red Blade" 1 0 225 250 0 0 0 0 1 0 0 20079
+0 108 "Samurai Long Sword" 1 0 230 34 0 0 1 0 0 0 0 13289
+0 109 "Shadow Blade" 1 0 110 130 0 0 1 0 0 0 0 11640
+0 110 "Sword of Death" 1 0 120 149 0 0 1 0 0 0 0 13192
+0 111 "Sword Thunder Skull" 1 0 161 180 140 0 0 0 1 0 0 17266
+0 112 "Glory Sword Longer" 1 0 122 135 0 0 1 0 1 0 0 12998
+0 113 "Sword of Agni" 1 0 85 110 0 0 0 0 1 0 0 9894
+0 114 "Sword of Catastrophe" 1 0 112 138 0 0 1 0 0 0 0 12222
+0 115 "Sword of Death Bringer" 1 0 171 210 0 0 1 0 0 0 0 17072
+0 116 "Sword of Desolation" 1 0 158 187 0 0 1 0 1 0 0 15617
+0 117 "Sword of Dismantler" 1 0 180 222 138 0 0 0 1 0 0 19206
+0 118 "Sword of Fusion" 1 0 180 210 0 0 1 0 0 0 0 17363
+0 119 "Sword of Haikin" 1 0 101 112 0 0 1 0 0 0 0 10088
+0 120 "Sword of Icarus Heavy" 1 0 150 189 0 0 1 0 0 0 0 15423
+0 121 "Sword of Icarus Spirits" 1 0 240 14 0 0 1 0 0 0 0 12901
+0 122 "Sword of Ice Blade" 1 0 137 168 155 0 0 0 1 0 0 15908
+0 123 "Sword Ilusion Flame" 1 0 128 163 0 0 0 0 1 0 0 12901
+0 124 "Sword of Invincible Blade" 1 0 155 199 0 0 0 0 1 0 0 14938
+0 125 "Sword of Karlush" 1 0 172 195 0 0 0 0 1 0 0 16587
+0 126 "Sword of Magestic" 1 0 199 220 0 0 1 0 0 0 0 18236
+0 127 "Sword of Master Nigthmare" 1 0 150 182 0 0 0 0 1 0 0 15229
+0 128 "Sword of Nostro" 1 0 99 125 0 0 1 0 0 0 0 10476
+0 129 "Sword of Greatleg" 1 0 169 199 0 0 1 0 0 0 0 16587
+0 130 "Sword of Rudra" 1 0 90 113 0 0 0 0 1 0 0 10767
+0 131 "Sword of Scarlet Blade" 1 0 220 248 0 0 0 0 1 0 0 18624
+0 132 "Sword of Ulduar" 1 0 188 210 0 0 1 0 0 0 0 17557
+0 133 "Sword of Vampire" 1 0 170 180 0 0 1 0 1 1 0 16005
+0 134 "Gold Sword" 1 0 165 191 0 0 1 0 1 0 0 15617
+0 135 "The Lich King Sword" 1 0 180 199 120 0 0 0 1 0 0 18042
+1 0 "Small Axe" 0 0 1 6 0 1 1 1 1 1 1 1194
+1 1 "Hand Axe" 0 0 4 9 0 1 1 1 1 1 1 1582
+1 2 "Double Axe" 1 0 14 24 0 0 1 0 1 1 0 2746
+1 3 "Tomahawk" 1 0 18 28 0 0 1 0 1 1 0 3134
+1 4 "Elven Axe" 0 0 26 38 0 1 0 1 1 0 1 4104
+1 5 "Battle Axe" 1 0 36 44 0 0 1 1 1 0 0 4783
+1 6 "Nikkea Axe" 1 0 38 50 0 0 1 1 1 0 0 5171
+1 7 "Larkan Axe" 1 0 54 67 0 0 1 0 1 0 0 5723
+1 8 "Crescent Axe" 1 0 69 89 0 1 1 0 1 0 0 7275
+1 100 "Blunt Beast Axe" 1 0 80 100 0 0 1 0 1 0 0 9021
+1 101 "Doom Crusher" 1 0 75 94 0 0 1 0 0 1 0 8633
+1 102 "Rabbit Axe" 0 0 59 84 0 0 0 1 0 0 1 7469
+1 103 "Shadow War Axe" 1 0 71 119 0 0 1 0 0 0 0 9797
+1 104 "Werewolf Axe" 1 0 68 113 0 0 1 0 1 0 0 9215
+2 0 "Mace" 0 0 7 13 0 0 1 0 1 1 0 1873
+2 1 "Morning Star" 1 0 13 22 0 0 1 0 1 1 0 2649
+2 2 "Flail" 0 0 22 32 0 0 1 0 1 1 0 3619
+2 3 "Great Hammer" 1 0 45 56 0 0 1 0 1 0 0 5753
+2 4 "Crystal Morning Star" 1 0 78 107 0 1 1 1 1 0 0 8633
+2 5 "Crystal Sword" 1 0 89 120 0 1 1 1 1 0 0 9700
+2 6 "Chaos Dragon Axe" 1 0 102 130 0 0 1 0 1 0 0 10573
+2 7 "Elemental Mace" 0 0 62 80 0 0 0 2 0 0 0 7469
+2 8 "Battle Scepter" 1 0 41 52 3 0 0 0 0 1 0 5141
+2 9 "Master Scepter" 1 0 57 68 20 0 0 0 0 1 0 7081
+2 10 "Great Scepter" 1 0 74 85 35 0 0 0 0 1 0 8342
+2 11 "Lord Scepter" 1 0 91 102 52 0 0 0 0 1 0 10185
+2 12 "Great Lord Scepter" 1 0 108 120 67 0 0 0 0 1 0 12901
+2 13 "Divine Scepter of Archangel" 1 0 120 143 78 0 0 0 0 1 0 14550
+2 14 "Solay Scepter" 1 0 130 153 84 0 0 0 0 1 0 15229
+2 15 "Shining Scepter" 1 0 99 111 60 0 0 0 0 1 0 11252
+2 16 "Frost mace" 0 0 106 146 0 0 0 2 0 0 0 12028
+2 17 "Absolute Scepter" 1 0 114 132 72 0 0 0 0 1 0 13483
+2 18 "Stryker Scepter" 1 0 112 124 70 0 0 0 0 1 0 13483
+2 100 "Death Tree Hammer" 1 0 86 143 0 0 1 0 1 0 0 9991
+2 101 "Work Hammer" 1 0 99 165 0 0 1 0 1 0 0 11349
+2 102 "Ice Hammer" 1 0 139 174 0 0 1 0 1 0 0 13192
+2 103 "Yaksa Mace" 1 0 79 132 0 0 1 0 1 0 0 9894
+2 104 "Yellow Glass Scimitar" 1 0 68 85 0 0 1 0 1 0 0 7566
+2 105 "Nightmare Scepter" 1 0 120 150 87 0 0 0 0 1 0 14841
+2 106 "Conquer Lord Scepter" 1 0 84 140 84 0 0 0 0 1 0 12998
+2 107 "Dark King Scepter" 1 0 128 160 95 0 0 0 0 1 0 15520
+2 108 "Death Spirit Scepter" 1 0 102 146 90 0 0 0 0 1 0 13968
+2 109 "Larken Scepter" 1 0 77 110 74 0 0 0 0 1 0 11058
+2 110 "Shadow Scepter" 1 0 102 170 70 0 0 0 0 1 0 13774
+2 111 "Skeleton Lord Scepter" 1 0 101 144 85 0 0 0 0 1 0 13968
+3 0 "Light Spear" 1 0 50 63 0 0 1 1 1 0 0 5335
+3 1 "Spear" 0 0 30 41 0 0 1 1 1 0 0 4201
+3 2 "Dragon Lance" 0 0 21 33 0 0 1 1 1 0 0 3328
+3 3 "Giant Trident" 0 0 35 43 0 0 1 1 1 0 0 4686
+3 4 "Serpent Spear" 1 0 58 80 0 0 1 1 1 0 0 6305
+3 5 "Double Poleaxe" 0 0 19 31 0 0 1 1 1 0 0 3134
+3 6 "Halberd" 0 0 25 35 0 0 1 1 1 0 0 3716
+3 7 "Berdysh" 1 0 42 54 0 0 1 1 1 0 0 5559
+3 8 "Great Scythe" 1 0 71 92 0 0 1 1 1 0 0 7469
+3 9 "Bill of Balrog" 1 0 76 102 0 0 1 1 1 0 0 8342
+3 10 "Dragon Spear" 1 0 112 140 0 0 2 0 0 0 0 11058
+3 11 "Beuroba" 1 0 190 226 0 0 2 0 1 0 0 18139
+3 100 "Nightmare Spear" 1 0 168 240 0 0 1 0 0 0 0 17945
+3 101 "Scout Spear" 1 0 96 160 0 0 1 0 1 0 0 12125
+3 102 "Shadow Lance" 1 0 56 70 0 0 1 0 1 0 0 5917
+3 103 "Siege Guard Spear" 1 0 176 220 0 0 1 0 1 0 0 17363
+3 104 "Spear of Galia Dragon" 1 0 208 4 0 0 1 0 0 0 0 11543
+3 105 "Twin Tail Spear" 1 0 108 180 0 0 1 0 0 0 0 13192
+3 106 "Werewolf Spear" 1 0 138 230 0 0 1 0 1 0 0 16102
+3 107 "Lizard Scythe" 1 0 119 170 0 0 1 0 0 0 0 13095
+3 108 "GreenGlass Scythe" 1 0 160 200 0 0 1 0 1 0 0 16102
+4 0 "Short Bow" 1 0 3 5 0 0 0 1 0 0 0 1291
+4 1 "Bow" 1 0 9 13 0 0 0 1 0 0 0 1970
+4 2 "Elven Bow" 1 0 17 24 0 0 0 1 0 0 0 2940
+4 3 "Battle Bow" 1 0 28 37 0 0 0 1 0 0 0 4104
+4 4 "Tiger Bow" 1 0 42 52 0 0 0 1 0 0 0 5559
+4 5 "Silver Bow" 1 0 59 71 0 0 0 1 0 0 0 6402
+4 6 "Chaos Nature Bow" 1 0 88 106 0 0 0 1 0 0 0 9312
+4 7 "Bolt" 0 0 0 0 0 0 0 1 0 0 0 1000
+4 8 "Crossbow" 1 0 5 8 0 0 0 1 0 0 0 1582
+4 9 "Golden Crossbow" 1 0 13 19 0 0 0 1 0 0 0 2455
+4 10 "Arquebus" 1 0 22 30 0 0 0 1 0 0 0 3425
+4 11 "Light Crossbow" 1 0 35 44 0 0 0 1 0 0 0 4783
+4 12 "Serpent Crossbow" 1 0 50 61 0 0 0 1 0 0 0 5432
+4 13 "Bluewing Crossbow" 1 0 68 82 0 0 0 1 0 0 0 7469
+4 14 "Aquagold Crossbow" 1 0 78 92 0 0 0 1 0 0 0 8342
+4 15 "Arrows" 0 0 0 0 0 0 0 1 0 0 0 1000
+4 16 "Saint Crossbow" 1 0 102 127 0 0 0 1 0 0 0 10088
+4 17 "Celestial Bow" 1 0 127 155 0 0 0 2 0 0 0 12028
+4 18 "Divine CB of Archangel" 1 0 144 166 0 0 0 1 0 0 0 13192
+4 19 "Great Reign Crossbow" 1 0 150 172 0 0 0 2 0 0 0 13580
+4 20 "Arrow Viper Bow" 1 0 166 190 0 0 0 2 0 0 0 15811
+4 21 "Sylph Wind Bow" 1 0 177 200 0 0 0 2 0 0 0 16878
+4 22 "Albatross Bow" 1 0 155 177 0 0 0 2 0 0 0 14259
+4 23 "Stinger Bow" 1 0 162 184 0 0 0 2 0 0 0 15520
+4 24 "Air Lyn Bow" 1 0 170 194 0 0 0 2 0 0 0 16490
+4 100 "Divine Celestial Bow" 1 0 192 240 0 0 0 1 0 0 0 18721
+4 101 "Hunter Bow" 1 0 160 228 0 0 0 1 0 0 0 16975
+4 102 "Ceremony Crossbow" 1 0 129 184 0 0 0 1 0 0 0 13677
+4 103 "Deadfear Bow" 1 0 149 186 0 0 0 1 0 0 0 14647
+4 104 "Death Soram Crossbow" 1 0 144 240 0 0 0 1 0 0 0 16199
+4 105 "Scout Bow" 1 0 176 220 0 0 0 1 0 0 0 16878
+5 0 "Skull Staff" 0 0 3 4 6 1 0 0 1 0 1 1679
+5 1 "Angelic Staff" 0 0 10 12 20 1 0 0 1 0 0 3328
+5 2 "Serpent Staff" 0 0 17 18 34 1 0 0 1 0 0 4880
+5 3 "Thunder Staff" 0 0 23 25 46 1 0 0 1 0 0 5335
+5 4 "Gorgon Staff" 0 0 29 32 58 1 0 0 1 0 0 6693
+5 5 "Legendary Staff" 0 0 29 31 59 1 0 0 1 0 0 6984
+5 6 "Staff of Resurrection" 0 0 35 39 70 1 0 0 1 0 0 8439
+5 7 "Chaos Lighting Staff" 0 0 47 48 94 1 0 0 1 0 0 10476
+5 8 "Staff of Destruction" 0 0 50 54 101 1 0 0 1 0 0 10864
+5 9 "Dragon Soul Staff" 0 0 46 48 92 2 0 0 0 0 0 10476
+5 10 "Divine Staff of Archangel" 0 0 53 55 106 1 0 0 1 0 0 11737
+5 11 "Staff of Kundun" 0 0 55 61 110 2 0 0 1 0 0 13289
+5 12 "Grand Viper Staff" 0 0 66 74 130 2 0 0 0 0 0 15229
+5 13 "Platina Staff" 0 0 51 53 120 2 0 0 0 0 0 12416
+5 14 "Mistery Staff" 0 0 17 18 34 0 0 0 0 0 1 4783
+5 15 "Violent Wind Staff" 0 0 23 25 46 0 0 0 0 0 1 5335
+5 16 "Red Wing Staff" 0 0 29 31 59 0 0 0 0 0 1 6984
+5 17 "Ancient Staff" 0 0 38 40 76 0 0 0 0 0 1 9118
+5 18 "Black Rose Staff" 0 0 46 48 92 0 0 0 0 0 2 10476
+5 19 "Aura Staff" 0 0 51 53 110 0 0 0 0 0 2 11931
+5 20 "Lilium Staff" 0 0 56 58 113 0 0 0 0 0 2 13095
+5 21 "Book of Sahamutt" 1 0 0 0 46 0 0 0 0 0 1 10000
+5 22 "Book of Neil" 1 0 0 0 59 0 0 0 0 0 1 10000
+5 23 "Book of Ghost Phantom" 1 0 0 0 72 0 0 0 0 0 1 15000
+5 30 "Deadly Staff" 0 0 57 59 126 0 0 0 1 0 0 13968
+5 31 "Imperial Staff" 0 0 57 61 124 2 0 0 0 0 0 13968
+5 32 "Merlin Staff" 0 0 70 80 135 0 0 0 0 0 3 15229
+5 33 "Chroma ticks staff" 0 0 55 57 124 2 0 0 1 0 0 14065
+5 34 "Raven Stick" 0 0 70 78 130 0 0 0 0 0 2 15520
+5 100 "Staff Crystal" 0 0 56 80 135 1 0 0 0 0 0 15326
+5 101 "Staff of Amaranth" 0 0 48 69 149 0 0 0 0 0 1 15326
+5 102 "Staff of King Lord" 0 0 56 70 136 1 0 0 0 0 0 14453
+5 103 "Staff of Dragon" 0 0 56 70 139 0 0 0 0 0 1 15132
+5 104 "Staff Dynasty" 0 0 38 55 150 1 0 0 0 0 0 14647
+5 105 "Witch Queen Staff" 0 0 52 65 130 0 0 0 0 0 1 13677
+5 106 "Tree Staff" 0 0 32 40 164 1 0 0 0 0 0 13774
+5 107 "Shadow Staff" 0 0 44 55 121 0 0 0 0 0 0 12416
+5 108 "Nightmare Staff" 0 0 56 70 137 1 0 0 0 0 0 14841
+6 0 "Small Shield" 0 1 0 0 0 1 1 1 1 1 0 700
+6 1 "Horn Shield" 0 3 0 0 0 0 1 0 1 1 0 2100
+6 2 "Kite Shield" 0 4 0 0 0 0 1 0 1 1 0 2800
+6 3 "Elven Shield" 0 8 0 0 0 0 0 1 0 0 0 5000
+6 4 "Buckler" 1 2 0 0 0 1 1 1 1 1 0 1400
+6 5 "Dragon Slayer Shield" 1 10 0 0 0 0 1 0 1 1 0 8100
+6 6 "Skull Shield" 1 5 0 0 0 1 1 1 1 1 0 3500
+6 7 "Spiked Shield" 1 9 0 0 0 0 1 0 1 1 0 6900
+6 8 "Tower Shield" 1 11 0 0 0 0 1 1 1 1 0 9100
+6 9 "Iron Shield" 1 8 0 0 0 0 1 0 1 1 0 5800
+6 10 "Big Round Shield" 1 6 0 0 0 0 1 0 1 1 0 4200
+6 11 "Serpent Shield" 1 12 0 0 0 0 1 1 1 1 0 10200
+6 12 "Bronze Shield" 1 13 0 0 0 0 1 0 1 0 0 12100
+6 13 "Chaos Shield" 1 14 0 0 0 0 1 0 1 0 0 13400
+6 14 "Legendary Shield" 0 7 0 0 0 1 0 1 1 0 0 10300
+6 15 "Grand Soul Shield" 0 12 0 0 0 2 0 0 0 0 0 14100
+6 16 "Elemental Shield" 0 11 0 0 0 0 0 2 0 0 0 10500
+6 17 "CrimsonGlory" 1 19 0 0 0 0 2 0 0 0 0 21300
+6 18 "Salamander Shield" 1 20 0 0 0 0 0 0 1 0 0 21800
+6 19 "Frost Barrier" 0 14 0 0 0 0 0 2 0 0 0 17100
+6 20 "Guardian Shiled" 1 12 0 0 0 2 0 0 0 0 0 14800
+6 21 "Cross Shield" 1 16 0 0 0 0 0 0 0 1 0 16100
+6 100 "Blood Spirit Shield" 1 20 0 0 0 1 0 1 0 0 1 18300
+6 101 "Shield of Shadow" 1 15 0 0 0 0 1 0 1 0 0 19500
+6 102 "Siege Guard Shield" 1 25 0 0 0 0 1 0 0 1 0 23500
+6 103 "Shield of Divine" 1 30 0 0 0 1 0 0 0 0 1 22700
+6 104 "Shield of Mastering" 1 24 0 0 0 1 0 0 1 1 0 20100
+6 105 "Rogue Shield" 1 30 0 0 0 0 1 0 1 0 0 28500
+7 0 "Bronze Helm" 0 9 0 0 0 0 1 0 0 1 0 2500
+7 1 "Dragon Helm" 0 24 0 0 0 0 1 0 0 0 0 8100
+7 2 "Pad Helm" 0 4 0 0 0 1 0 0 0 0 0 900
+7 3 "Legendary Helm" 0 18 0 0 0 1 0 0 0 0 0 6800
+7 4 "Bone Helm" 0 9 0 0 0 1 0 0 0 0 0 2700
+7 5 "Leather Helm" 0 5 0 0 0 0 1 0 0 1 0 1100
+7 6 "Scale Helm" 0 12 0 0 0 0 1 0 0 1 0 3800
+7 7 "Sphinx Mask" 0 13 0 0 0 1 0 0 0 0 0 4500
+7 8 "Brass Helm" 0 17 0 0 0 0 1 0 0 0 0 5300
+7 9 "Plate Helm" 0 20 0 0 0 0 1 0 0 0 0 6600
+7 10 "Vine Helm" 0 4 0 0 0 0 0 1 0 0 0 1000
+7 11 "Silk Helm" 0 8 0 0 0 0 0 1 0 0 0 2400
+7 12 "Wind Helm" 0 12 0 0 0 0 0 1 0 0 0 4000
+7 13 "Spirit Helm" 0 16 0 0 0 0 0 1 0 0 0 5600
+7 14 "Guardian Helm" 0 23 0 0 0 0 0 1 0 0 0 7600
+7 16 "Black Dragon Helm" 0 30 0 0 0 0 1 0 0 0 0 11200
+7 17 "Dark Phoenix Helm" 0 43 0 0 0 0 2 0 0 0 0 13500
+7 18 "Grand Soul Helm" 0 27 0 0 0 2 0 0 0 0 0 10800
+7 19 "Divine Helm" 0 37 0 0 0 0 0 2 0 0 0 12200
+7 21 "Great Dragon Helm" 0 53 0 0 0 0 2 0 0 0 0 15700
+7 22 "Dark Soul Helm" 0 36 0 0 0 2 0 0 0 0 0 14600
+7 24 "Red Spirit Helm" 0 46 0 0 0 0 0 2 0 0 0 13900
+7 25 "Light Plate Mask" 0 20 0 0 0 0 0 0 0 1 0 6600
+7 26 "Adamantine Mask" 0 24 0 0 0 0 0 0 0 1 0 9000
+7 27 "Dark Steel Mask" 0 26 0 0 0 0 0 0 0 1 0 11200
+7 28 "Dark Master Mask" 0 34 0 0 0 0 0 0 0 1 0 14000
+7 29 "Dragon Knight Helm" 0 66 0 0 0 0 2 0 0 0 0 19600
+7 30 "Venom Mist Helm" 0 48 0 0 0 2 0 0 0 0 0 17400
+7 31 "Sylphid Ray Helm" 0 57 0 0 0 0 0 2 0 0 0 18300
+7 33 "Sunlight Mask" 0 46 0 0 0 0 0 0 0 1 0 17600
+7 34 "Ashcrow Helm" 0 27 0 0 0 0 1 0 0 0 0 9400
+7 35 "Eclipse Helm" 0 22 0 0 0 1 0 0 0 0 0 8900
+7 36 "Iris Helm" 0 30 0 0 0 0 0 1 0 0 0 9700
+7 38 "Glorious Mask" 0 30 0 0 0 0 0 0 0 1 0 12700
+7 39 "Mistery Helm" 0 13 0 0 0 0 0 0 0 0 1 4100
+7 40 "Red Wing Helm" 0 18 0 0 0 0 0 0 0 0 1 6800
+7 41 "Ancient Helm" 0 24 0 0 0 0 0 0 0 0 1 9200
+7 42 "Black Rose Helm" 0 32 0 0 0 0 0 0 0 0 2 11300
+7 43 "Aura Helm" 0 43 0 0 0 0 0 0 0 0 2 15300
+7 44 "Lilium Helm" 0 50 0 0 0 0 0 0 0 0 2 16000
+7 45 "Titan Helm" 0 63 0 0 0 0 1 0 0 0 0 17400
+7 46 "Brave Helm" 0 51 0 0 0 0 1 0 0 0 0 15800
+7 49 "Seraphim Helm" 0 50 0 0 0 0 0 1 0 0 0 16100
+7 50 "Faith Helm" 0 44 0 0 0 0 0 1 0 0 0 14800
+7 51 "Paewang Mask" 0 44 0 0 0 0 0 0 0 1 0 15500
+7 52 "Hades Helm" 0 41 0 0 0 1 0 0 0 0 0 15000
+7 53 "Queen Helm" 0 80 0 0 0 0 0 0 0 0 3 19200
+7 200 "Goku Helm" 0 34 0 0 0 1 0 0 0 0 0 13300
+7 201 "Goku SSJ Helm" 0 52 0 0 0 1 0 0 0 0 0 16000
+7 202 "Goku SSJ3 Helm" 0 63 0 0 0 1 0 0 0 0 0 18400
+7 203 "Goku SSJ4 Helm" 0 78 0 0 0 1 0 0 0 0 0 20500
+7 204 "Vegeta Helm" 0 42 0 0 0 0 1 0 0 0 0 13200
+7 205 "Vegeta SSJ2 Helm" 0 59 0 0 0 0 1 0 0 0 0 16900
+7 206 "Vegeta SSJ4 Helm" 0 91 0 0 0 0 1 0 0 0 0 22300
+7 207 "Trunks SSJ Helm" 0 52 0 0 0 0 1 0 0 0 0 15100
+7 208 "Goheta SSJ4 Helm" 0 108 0 0 0 0 1 0 0 0 0 24000
+7 209 "Cell Lvl3 Helm" 0 63 0 0 0 0 1 0 0 0 0 18200
+7 210 "Majin Boo Helm" 0 74 0 0 0 1 0 0 0 0 0 20400
+7 211 "Piccolo Helm" 0 53 0 0 0 0 1 0 0 0 0 16100
+7 212 "Naruto Helm" 0 77 0 0 0 0 1 0 0 0 0 20200
+7 213 "Sasuke Helm" 0 70 0 0 0 0 1 0 0 0 0 19200
+7 214 "Itachi Helm" 0 63 0 0 0 1 0 0 0 0 0 18000
+7 215 "Pegasus Helm" 0 50 0 0 0 0 1 0 0 0 0 16500
+7 216 "Dragon (Shyriu) Helm" 0 49 0 0 0 0 1 0 0 0 0 15700
+7 217 "Cygnus (Hyoga) Helm" 0 48 0 0 0 1 0 0 0 0 0 14700
+7 218 "Andromeda (Shun) Helm" 0 46 0 0 0 0 0 1 0 0 1 13700
+7 219 "Phoenix (Ikki) Helm" 0 42 0 0 0 0 0 0 0 1 0 15700
+7 220 "Eagle (Marin) Helm" 0 56 0 0 0 0 0 1 0 0 0 18100
+7 221 "Snake (Shina) Helm" 0 55 0 0 0 0 0 0 0 0 1 15600
+7 222 "Aries Helm" 0 74 0 0 0 1 0 0 0 0 0 20000
+7 223 "Taurus Helm" 0 62 0 0 0 0 1 0 0 0 0 18800
+7 224 "Gemini Helm" 0 81 0 0 0 0 0 0 0 1 0 21100
+7 225 "Cancer Helm" 0 66 0 0 0 1 0 0 0 0 0 19100
+7 226 "Leo Helm" 0 82 0 0 0 0 0 0 0 1 0 21100
+7 227 "Virgo Helm" 0 93 0 0 0 0 1 0 0 0 0 22500
+7 228 "Libra Helm" 0 80 0 0 0 0 1 0 0 0 0 21200
+7 229 "Escorpio Helm" 0 76 0 0 0 1 0 0 0 0 0 20800
+7 230 "Sagittarius Helm" 0 94 0 0 0 0 1 0 0 0 0 22600
+7 231 "Capricorn Helm" 0 77 0 0 0 0 1 0 0 0 0 20200
+7 232 "Acuarius Helm" 0 76 0 0 0 1 0 0 0 0 0 19100
+7 233 "Picis Helm" 0 63 0 0 0 1 0 0 0 0 0 18200
+7 234 "Athena Helm" 0 84 0 0 0 0 0 1 0 0 0 21600
+7 235 "Dragon Marine (Kanon) Helm" 0 98 0 0 0 0 1 0 0 0 0 23000
+7 236 "Poseidon Helm" 0 115 0 0 0 0 1 0 0 0 0 24700
+7 237 "Pandora Helm" 0 95 0 0 0 0 0 0 0 0 1 22700
+7 238 "Balgass Helm" 0 55 0 0 0 0 0 0 0 1 0 16300
+7 240 "Imperial Dragon Helm" 0 57 0 0 0 0 1 0 0 0 0 17400
+7 241 "Galia Helm" 0 97 0 0 0 0 1 0 0 0 0 22900
+7 243 "Invader Helm" 0 83 0 0 0 0 1 0 0 0 0 21500
+7 244 "Dark Elf Helm" 0 84 0 0 0 0 0 1 0 0 0 21600
+7 245 "Great Demon Helm" 0 57 0 0 0 0 1 0 1 1 0 16900
+7 246 "United Soldier Helm" 0 97 0 0 0 0 1 0 0 0 0 22700
+7 247 "Gold Helm" 0 78 0 0 0 0 1 0 1 0 0 20400
+7 248 "King Omega Helm" 0 74 0 0 0 0 1 0 0 1 0 20600
+7 249 "Titan Helm" 0 80 0 0 0 0 1 0 0 1 0 20600
+7 250 "Guardman Helm" 0 86 0 0 0 0 1 0 1 0 0 21000
+7 251 "China Heavy Helm" 0 84 0 0 0 0 1 0 1 0 0 21600
+7 252 "Cyruss Helm" 0 55 0 0 0 0 1 0 0 0 0 15400
+7 253 "Darkness Dragon Helm" 0 77 0 0 0 1 0 0 0 1 0 19400
+7 254 "Executor Helm" 0 59 0 0 0 0 1 0 1 1 0 16000
+7 255 "Guild Master Helm" 0 67 0 0 0 0 1 0 1 0 0 17500
+7 256 "Guild Dance Helm" 0 57 0 0 0 0 1 0 1 1 0 18700
+7 257 "Hell Maine Helm" 0 86 0 0 0 0 1 0 0 0 0 21800
+7 258 "Hell Red Helm" 0 59 0 0 0 0 0 0 0 1 0 19100
+7 259 "Lord Centurion Helm" 0 65 0 0 0 0 1 0 0 0 0 19600
+7 260 "Lizard God Helm" 0 58 0 0 0 1 0 0 1 0 0 16600
+7 261 "Magma Helm" 0 88 0 0 0 0 1 0 0 0 0 21300
+7 262 "Mecha Helm" 0 56 0 0 0 1 0 0 1 0 0 15500
+7 263 "Osmio Helm" 0 61 0 0 0 0 0 0 0 0 1 17600
+7 264 "Dark Blood Helm" 0 55 0 0 0 1 1 0 0 0 0 15400
+7 265 "Lady Summoner Helm" 0 84 0 0 0 0 0 0 0 0 1 21600
+7 266 "Kato Helm" 0 93 0 0 0 0 1 0 0 0 0 22500
+7 267 "Surprise Helm" 0 52 0 0 0 0 0 1 0 0 0 16900
+7 268 "Death Helm" 0 93 0 0 0 0 0 0 0 0 1 22500
+7 269 "Cobra Helm" 0 55 0 0 0 1 0 0 0 0 0 16500
+7 270 "Apostle Helm" 0 63 0 0 0 0 1 0 0 0 0 18000
+7 271 "Dark Serpent Helm" 0 46 0 0 0 1 0 0 0 1 0 14300
+7 273 "Devil Dragon Helm" 0 69 0 0 0 0 1 0 0 1 0 19300
+7 274 "Ice Knight Helm" 0 63 0 0 0 1 0 0 0 0 0 19200
+7 275 "Dragon God Helm" 0 74 0 0 0 0 0 0 0 1 0 19400
+7 276 "Dead Knight Helm" 0 60 0 0 0 1 0 0 0 0 0 17400
+7 277 "Blood Thristy Helm" 0 102 0 0 0 0 1 0 0 0 0 23400
+7 278 "Lilith Helm" 0 70 0 0 0 0 0 1 0 0 0 18500
+7 279 "Spirit Sorcer Helm" 0 77 0 0 0 1 0 0 0 0 0 20300
+7 280 "Kinght Nightmare Helm" 0 76 0 0 0 1 0 0 0 0 0 20000
+7 281 "Balrog Helm" 0 70 0 0 0 0 1 0 0 0 0 19600
+7 282 "Darkness Dragon Helm" 0 64 0 0 0 0 0 0 0 1 0 17600
+7 283 "Golden Fenir Helm" 0 56 0 0 0 1 0 0 0 0 0 16000
+7 284 "Summoner Helm" 0 70 0 0 0 0 0 0 0 0 1 17800
+7 285 "Kentauro Soul Helm" 0 65 0 0 0 1 0 0 1 1 0 18900
+7 286 "Red Lord Plate Helm" 0 59 0 0 0 0 0 0 0 1 0 17500
+7 289 "Thunder Skull Helm" 0 71 0 0 0 1 0 0 0 0 0 19300
+7 290 "King Skull Helm" 0 76 0 0 0 1 0 0 0 0 0 20500
+7 291 "Darkness Skull Helm" 0 105 0 0 0 0 1 0 1 0 0 23700
+7 292 "Magician Light Helm" 0 54 0 0 0 1 0 0 0 0 0 17600
+7 293 "Red Warrior Helm" 0 66 0 0 0 0 1 0 0 1 0 19200
+7 294 "Blue Star Helm" 0 79 0 0 0 0 0 1 0 0 0 21100
+7 295 "Adhil Helm" 0 77 0 0 0 0 0 0 0 0 1 19400
+7 296 "Mask Cavalier Helm" 0 62 0 0 0 0 1 0 1 1 0 17400
+7 297 "Golden Warrior Helm" 0 59 0 0 0 0 1 0 1 1 0 18300
+7 299 "Arabian Helm" 0 19 0 0 0 1 0 0 0 1 0 8700
+7 300 "Agile Helm" 0 21 0 0 0 1 0 0 0 1 0 9100
+7 302 "Lord Dark Helm" 0 36 0 0 0 1 0 0 0 1 0 12600
+7 303 "Seraphim Helm" 0 77 0 0 0 0 0 1 0 0 0 19400
+8 0 "Bronze Armor" 0 14 0 0 0 0 1 0 1 1 0 3200
+8 1 "Dragon Armor" 0 37 0 0 0 0 1 0 1 0 0 9600
+8 2 "Pad Armor" 0 7 0 0 0 1 0 0 1 0 0 1700
+8 3 "Legendary Armor" 0 22 0 0 0 1 0 0 1 0 0 7800
+8 4 "Bone Armor" 0 13 0 0 0 1 0 0 1 0 0 3500
+8 5 "Leather Armor" 0 10 0 0 0 0 1 0 1 1 0 2000
+8 6 "Scale Armor" 0 18 0 0 0 0 1 0 1 1 0 4600
+8 7 "Sphinx Armor" 0 17 0 0 0 1 0 0 1 0 0 5500
+8 8 "Brass Armor" 0 22 0 0 0 0 1 0 1 0 0 6000
+8 9 "Plate Armor" 0 30 0 0 0 0 1 0 1 0 0 7800
+8 10 "Vine Armor" 0 8 0 0 0 0 0 1 0 0 0 1800
+8 11 "Silk Armor" 0 12 0 0 0 0 0 1 0 0 0 3200
+8 12 "Wind Armor" 0 16 0 0 0 0 0 1 0 0 0 4800
+8 13 "Spirit Armor" 0 21 0 0 0 0 0 1 0 0 0 6500
+8 14 "Guardian Armor" 0 29 0 0 0 0 0 1 0 0 0 8600
+8 15 "Storm Crow Armor" 0 44 0 0 0 0 0 0 1 0 0 12400
+8 16 "Black Dragon Armor" 0 48 0 0 0 0 1 0 0 0 0 13800
+8 17 "Dark Phoenix Armor" 0 63 0 0 0 0 2 0 0 0 0 16300
+8 18 "Grand Soul Armor" 0 33 0 0 0 2 0 0 0 0 0 12400
+8 19 "Divine Armor" 0 44 0 0 0 0 0 2 0 0 0 13600
+8 20 "Thunder Hawk Armor" 0 60 0 0 0 0 0 0 1 0 0 16700
+8 21 "Great Dragon Armor" 0 75 0 0 0 0 2 0 0 0 0 20100
+8 22 "Dark Soul Armor" 0 43 0 0 0 2 0 0 0 0 0 16500
+8 23 "Hurricane Armor" 0 73 0 0 0 0 0 0 1 0 0 20100
+8 24 "Red Sprit Armor" 0 55 0 0 0 0 0 2 0 0 0 16400
+8 25 "Light Plate Armor" 0 25 0 0 0 0 0 0 0 1 0 8700
+8 26 "Adamantine Armor" 0 36 0 0 0 0 0 0 0 1 0 11400
+8 27 "Dark Steel Armor" 0 43 0 0 0 0 0 0 0 1 0 13900
+8 28 "Dark Master Armor" 0 51 0 0 0 0 0 0 0 1 0 16800
+8 29 "Dragon Knight Armor" 0 88 0 0 0 0 2 0 0 0 0 22800
+8 30 "Venom Mist Armor" 0 57 0 0 0 2 0 0 0 0 0 20300
+8 31 "Sylphid Ray Armor" 0 68 0 0 0 0 0 2 0 0 0 21400
+8 32 "Volcano Armor" 0 86 0 0 0 0 0 0 1 0 0 23300
+8 33 "Sunlight Armor" 0 64 0 0 0 0 0 0 0 1 0 21100
+8 34 "Ashcrow Armor" 0 42 0 0 0 0 1 0 0 0 0 11700
+8 35 "Eclipse Armor" 0 27 0 0 0 1 0 0 0 0 0 10200
+8 36 "Iris Armor" 0 36 0 0 0 0 0 1 0 0 0 11100
+8 37 "Valiant Armor" 0 52 0 0 0 0 0 0 1 0 0 15700
+8 38 "Glorious Armor" 0 47 0 0 0 0 0 0 0 1 0 15200
+8 39 "Mistery Armor" 0 22 0 0 0 0 0 0 0 0 1 5600
+8 40 "Red Wing Armor" 0 28 0 0 0 0 0 0 0 0 1 8400
+8 41 "Ancient Armor" 0 35 0 0 0 0 0 0 0 0 1 11000
+8 42 "Black Rose Armor" 0 45 0 0 0 0 0 0 0 0 2 13600
+8 43 "Aura Armor" 0 56 0 0 0 0 0 0 0 0 2 17800
+8 44 "Lilium Armor" 0 71 0 0 0 0 0 0 0 0 2 18400
+8 45 "Titan Armor" 0 81 0 0 0 0 1 0 0 0 0 21300
+8 46 "Brave Armor" 0 62 0 0 0 0 1 0 0 0 0 19000
+8 47 "Destory Armor" 0 80 0 0 0 0 0 0 1 0 0 21100
+8 48 "Phantom Armor" 0 66 0 0 0 0 0 0 1 0 0 19100
+8 49 "Seraphim Armor" 0 60 0 0 0 0 0 1 0 0 0 18900
+8 50 "Faith Armor" 0 52 0 0 0 0 0 1 0 0 0 17400
+8 51 "Paewang Armor" 0 58 0 0 0 0 0 0 0 1 0 19000
+8 52 "Hades Armor" 0 50 0 0 0 1 0 0 0 0 0 17900
+8 53 "Queen Armor" 0 80 0 0 0 0 0 0 0 0 3 21100
+8 200 "Goku Armor" 0 49 0 0 0 1 0 0 0 0 0 15900
+8 201 "Goku SSJ Armor" 0 75 0 0 0 1 0 0 0 0 0 19500
+8 202 "Goku SSJ3 Armor" 0 90 0 0 0 1 0 0 0 0 0 22400
+8 203 "Goku SSJ4 Armor" 0 112 0 0 0 1 0 0 0 0 0 25300
+8 204 "Vegeta Armor" 0 60 0 0 0 0 1 0 0 0 0 16000
+8 205 "Vegeta SSJ2 Armor" 0 85 0 0 0 0 1 0 0 0 0 20700
+8 206 "Vegeta SSJ4 Armor" 0 130 0 0 0 0 1 0 0 0 0 27700
+8 207 "Trunks SSJ Armor" 0 74 0 0 0 0 1 0 0 0 0 18400
+8 208 "Goheta SSJ4 Armor" 0 155 0 0 0 0 1 0 0 0 0 30200
+8 209 "Cell Lvl3 Armor" 0 90 0 0 0 0 1 0 0 0 0 22200
+8 210 "Majin Boo Armor" 0 105 0 0 0 1 0 0 0 0 0 25000
+8 211 "Piccolo Armor" 0 76 0 0 0 0 1 0 0 0 0 19600
+8 212 "Naruto Armor" 0 110 0 0 0 0 1 0 0 0 0 24900
+8 213 "Sasuke Armor" 0 100 0 0 0 0 1 0 0 0 0 23500
+8 214 "Itachi Armor" 0 90 0 0 0 1 0 0 0 0 0 22000
+8 215 "Pegasus Armor" 0 71 0 0 0 0 1 0 0 0 0 19900
+8 216 "Dragon (Shyriu) Armor" 0 38 0 0 0 0 1 0 0 0 0 15800
+8 217 "Cygnus (Hyoga) Armor" 0 69 0 0 0 1 0 0 0 0 0 17900
+8 218 "Andromeda (Shun) Armor" 0 65 0 0 0 0 0 1 0 0 1 16600
+8 219 "Phoenix (Ikki) Armor" 0 60 0 0 0 0 0 0 0 1 0 18800
+8 220 "Eagle (Marin) Armor" 0 80 0 0 0 0 0 1 0 0 0 21900
+8 221 "Snake (Shina) Armor" 0 79 0 0 0 0 0 0 0 0 1 19100
+8 222 "Aries Armor" 0 105 0 0 0 1 0 0 0 0 0 24500
+8 223 "Taurus Armor" 0 88 0 0 0 0 1 0 0 0 0 22800
+8 224 "Gemini Armor" 0 116 0 0 0 0 0 0 0 1 0 26100
+8 225 "Cancer Armor" 0 94 0 0 0 1 0 0 0 0 0 23300
+8 226 "Leo Armor" 0 117 0 0 0 0 0 0 0 1 0 26000
+8 227 "Virgo Armor" 0 133 0 0 0 0 1 0 0 0 0 28000
+8 228 "Libra Armor" 0 63 0 0 0 0 1 0 0 0 0 21000
+8 229 "Escorpio Armor" 0 109 0 0 0 1 0 0 0 0 0 25600
+8 230 "Sagittarius Armor" 0 135 0 0 0 0 1 0 0 0 0 28200
+8 231 "Capricorn Armor" 0 110 0 0 0 0 1 0 0 0 0 24900
+8 232 "Acuarius Armor" 0 108 0 0 0 1 0 0 0 0 0 23600
+8 233 "Picis Armor" 0 90 0 0 0 1 0 0 0 0 0 22200
+8 234 "Athena Armor" 0 120 0 0 0 0 0 1 0 0 0 26700
+8 235 "Dragon Marine (Kanon) Armor" 0 140 0 0 0 0 1 0 0 0 0 28700
+8 236 "Poseidon Armor" 0 165 0 0 0 0 1 0 0 0 0 31200
+8 237 "Pandora Armor" 0 136 0 0 0 0 0 0 0 0 1 28300
+8 238 "Balgass Armor" 0 79 0 0 0 0 0 0 0 1 0 19900
+8 239 "Boss Karane Armor" 0 127 0 0 0 0 0 0 1 0 0 27400
+8 240 "Imperial Dragon Armor" 0 82 0 0 0 0 1 0 0 0 0 21200
+8 241 "Galia Armor" 0 139 0 0 0 0 1 0 0 0 0 28600
+8 242 "Eracles Armor" 0 80 0 0 0 0 0 0 1 0 0 21500
+8 243 "Invader Armor" 0 118 0 0 0 0 1 0 0 0 0 26500
+8 244 "Dark Elf Armor" 0 120 0 0 0 0 0 1 0 0 0 26700
+8 245 "Great Demon Armor" 0 82 0 0 0 0 1 0 1 1 0 20700
+8 246 "United Soldier Armor" 0 138 0 0 0 0 1 0 0 0 0 28300
+8 247 "Gold Armor" 0 111 0 0 0 0 1 0 1 0 0 25100
+8 248 "King Omega Armor" 0 105 0 0 0 0 1 0 0 1 0 25200
+8 249 "Titan Armor" 0 115 0 0 0 0 1 0 0 1 0 25500
+8 250 "Guardman Armor" 0 123 0 0 0 0 1 0 1 0 0 26100
+8 251 "China Heavy Armor" 0 120 0 0 0 0 1 0 1 0 0 26700
+8 252 "Cyruss Armor" 0 79 0 0 0 0 1 0 0 0 0 18900
+8 253 "Darkness Dragon Armor" 0 110 0 0 0 1 0 0 0 1 0 24000
+8 254 "Executor Armor" 0 85 0 0 0 0 1 0 1 1 0 19700
+8 255 "Guild Master Armor" 0 96 0 0 0 0 1 0 1 0 0 21600
+8 256 "Guild Dance Armor" 0 81 0 0 0 0 1 0 1 1 0 22600
+8 257 "Hell Maine Armor" 0 123 0 0 0 0 1 0 0 0 0 27000
+8 258 "Hell Red Armor" 0 85 0 0 0 0 0 0 0 1 0 23200
+8 259 "Lord Centurion Armor" 0 93 0 0 0 0 1 0 0 0 0 23900
+8 260 "Lizard God Armor" 0 83 0 0 0 1 0 0 1 0 0 20300
+8 261 "Magma Armor" 0 126 0 0 0 0 1 0 0 0 0 26500
+8 262 "Mecha Armor" 0 80 0 0 0 1 0 0 1 0 0 19000
+8 263 "Osmio Armor" 0 87 0 0 0 0 0 0 0 0 1 21500
+8 264 "Dark Blood Armor" 0 79 0 0 0 1 1 0 0 0 0 18900
+8 265 "Lady Summoner Armor" 0 120 0 0 0 0 0 0 0 0 1 26700
+8 266 "Kato Armor" 0 133 0 0 0 0 1 0 0 0 0 28000
+8 267 "Surprise Armor" 0 75 0 0 0 0 0 1 0 0 0 20500
+8 268 "Death Armor" 0 133 0 0 0 0 0 0 0 0 1 28000
+8 269 "Cobra Armor" 0 78 0 0 0 1 0 0 0 0 0 20000
+8 270 "Apostle Armor" 0 90 0 0 0 0 1 0 0 0 0 22000
+8 271 "Dark Serpent Armor" 0 65 0 0 0 1 0 0 0 1 0 17300
+8 272 "Great Volcano Armor" 0 120 0 0 0 0 0 0 1 0 0 26700
+8 273 "Devil Dragon Armor" 0 99 0 0 0 0 1 0 0 1 0 23700
+8 274 "Ice Knight Armor" 0 90 0 0 0 1 0 0 0 0 0 23300
+8 275 "Dragon God Armor" 0 105 0 0 0 0 0 0 0 1 0 23800
+8 276 "Dead Knight Armor" 0 86 0 0 0 1 0 0 0 0 0 21300
+8 277 "Blood Thristy Armor" 0 145 0 0 0 0 1 0 0 0 0 29200
+8 278 "Lilith Armor" 0 100 0 0 0 0 0 1 0 0 0 22800
+8 279 "Spirit Sorcer Armor" 0 110 0 0 0 1 0 0 0 0 0 25000
+8 280 "Kinght Nightmare Armor" 0 109 0 0 0 1 0 0 0 0 0 24700
+8 281 "Balrog Armor" 0 100 0 0 0 0 1 0 0 0 0 24000
+8 282 "Darkness Dragon Armor" 0 91 0 0 0 0 0 0 0 1 0 21600
+8 283 "Golden Fenir Armor" 0 80 0 0 0 1 0 0 0 0 0 19500
+8 284 "Summoner Armor" 0 100 0 0 0 0 0 0 0 0 1 22000
+8 285 "Kentauro Soul Armor" 0 93 0 0 0 1 0 0 1 1 0 23100
+8 286 "Red Lord Plate Armor" 0 84 0 0 0 0 0 0 0 1 0 21300
+8 287 "Dark Blue Storm Armor" 0 101 0 0 0 0 0 0 1 0 0 24000
+8 288 "Spine Armor" 0 69 0 0 0 0 0 0 1 0 0 16900
+8 289 "Thunder Skull Armor" 0 101 0 0 0 1 0 0 0 0 0 23600
+8 290 "King Skull Armor" 0 109 0 0 0 1 0 0 0 0 0 25200
+8 291 "Darkness Skull Armor" 0 150 0 0 0 0 1 0 1 0 0 29700
+8 292 "Magician Light Armor" 0 77 0 0 0 1 0 0 0 0 0 21200
+8 293 "Red Warrior Armor" 0 95 0 0 0 0 1 0 0 1 0 23500
+8 294 "Blue Star Armor" 0 113 0 0 0 0 0 1 0 0 0 26000
+8 295 "Adhil Armor" 0 110 0 0 0 0 0 0 0 0 1 24000
+8 296 "Mask Cavalier Armor" 0 89 0 0 0 0 1 0 1 1 0 21400
+8 297 "Golden Warrior Armor" 0 84 0 0 0 0 1 0 1 1 0 22200
+8 298 "Prince Armor" 0 77 0 0 0 0 0 0 1 0 0 18700
+8 299 "Arabian Armor" 0 27 0 0 0 1 0 0 0 1 0 10200
+8 300 "Agile Armor" 0 30 0 0 0 1 0 0 0 1 0 10800
+8 301 "Bone Spine" 0 42 0 0 0 0 0 0 1 0 0 13400
+8 302 "Lord Dark Armor" 0 52 0 0 0 1 0 0 0 1 0 15200
+8 303 "Seraphim Armor" 0 110 0 0 0 0 0 1 0 0 0 24000
+9 0 "Bronze Pants" 0 10 0 0 0 0 1 0 1 1 0 2500
+9 1 "Dragon Pants" 0 26 0 0 0 0 1 0 1 0 0 8100
+9 2 "Pad Pants" 0 5 0 0 0 1 0 0 1 0 0 1300
+9 3 "Legendary Pants" 0 20 0 0 0 1 0 0 1 0 0 7300
+9 4 "Bone Pants" 0 10 0 0 0 1 0 0 1 0 0 3000
+9 5 "Leather Pants" 0 7 0 0 0 0 1 0 1 1 0 1500
+9 6 "Scale Pants" 0 14 0 0 0 0 1 0 1 1 0 3900
+9 7 "Sphinx Pants" 0 15 0 0 0 1 0 0 1 0 0 4900
+9 8 "Brass Pants" 0 18 0 0 0 0 1 0 1 0 0 5300
+9 9 "Plate Pants" 0 22 0 0 0 0 1 0 1 0 0 6700
+9 10 "Vine Pants" 0 6 0 0 0 0 0 1 0 0 0 1400
+9 11 "Silk Pants" 0 10 0 0 0 0 0 1 0 0 0 2800
+9 12 "Wind Pants" 0 14 0 0 0 0 0 1 0 0 0 4400
+9 13 "Spirit Pants" 0 18 0 0 0 0 0 1 0 0 0 6000
+9 14 "Guardian Pants" 0 25 0 0 0 0 0 1 0 0 0 7900
+9 15 "Storm Crow Pants" 0 34 0 0 0 0 0 0 1 0 0 10800
+9 16 "Black Dragon Pants" 0 40 0 0 0 0 1 0 0 0 0 12400
+9 17 "Dark Phoenix Pants" 0 54 0 0 0 0 2 0 0 0 0 15000
+9 18 "Grand Soul Pants" 0 30 0 0 0 2 0 0 0 0 0 11600
+9 19 "Divine Pants" 0 39 0 0 0 0 0 2 0 0 0 12700
+9 20 "Thunder Hawk Pants" 0 49 0 0 0 0 0 0 1 0 0 14800
+9 21 "Great Dragon Pants" 0 65 0 0 0 0 2 0 0 0 0 17800
+9 22 "Dark Soul Pants" 0 39 0 0 0 2 0 0 0 0 0 15600
+9 23 "Hurricane Pants" 0 61 0 0 0 0 0 0 1 0 0 18300
+9 24 "Red Spirit Pants" 0 48 0 0 0 0 0 2 0 0 0 14800
+9 25 "Light Plate Pants" 0 21 0 0 0 0 0 0 0 1 0 7100
+9 26 "Adamantine Pants" 0 26 0 0 0 0 0 0 0 1 0 9600
+9 27 "Dark Steel Pants" 0 31 0 0 0 0 0 0 0 1 0 12300
+9 28 "Dark Master Pants" 0 39 0 0 0 0 0 0 0 1 0 14900
+9 29 "Dragon Knight Pants" 0 78 0 0 0 0 2 0 0 0 0 21200
+9 30 "Venom Mist Pants" 0 55 0 0 0 2 0 0 0 0 0 19000
+9 31 "Sylphid Ray Pants" 0 61 0 0 0 0 0 2 0 0 0 19600
+9 32 "Volcano Pants" 0 74 0 0 0 0 0 0 1 0 0 20900
+9 33 "Sunlight Pants" 0 52 0 0 0 0 0 0 0 1 0 19200
+9 34 "Ashcrow Pants" 0 33 0 0 0 0 1 0 0 0 0 10200
+9 35 "Eclipse Pants" 0 25 0 0 0 1 0 0 0 0 0 9400
+9 36 "Iris Pants" 0 32 0 0 0 0 0 1 0 0 0 10100
+9 37 "Valiant Pants" 0 41 0 0 0 0 0 0 1 0 0 14200
+9 38 "Glorious Pants" 0 35 0 0 0 0 0 0 0 1 0 13600
+9 39 "Mistery Pants" 0 16 0 0 0 0 0 0 0 0 1 4600
+9 40 "Red Wing Pants" 0 22 0 0 0 0 0 0 0 0 1 7500
+9 41 "Ancient Pants" 0 28 0 0 0 0 0 0 0 0 1 10000
+9 42 "Black Rose Pants" 0 37 0 0 0 0 0 0 0 0 2 12300
+9 43 "Aura Pants" 0 49 0 0 0 0 0 0 0 0 2 16600
+9 44 "Lilium Pants" 0 52 0 0 0 0 0 0 0 0 2 15400
+9 45 "Titan Pants" 0 74 0 0 0 0 1 0 0 0 0 19000
+9 46 "Brave Pants" 0 58 0 0 0 0 1 0 0 0 0 17000
+9 47 "Destory Pants" 0 66 0 0 0 0 0 0 1 0 0 18100
+9 48 "Phantom Pants" 0 51 0 0 0 0 0 0 1 0 0 16400
+9 49 "Seraphim Pants" 0 53 0 0 0 0 0 1 0 0 0 16900
+9 50 "Faith Pants" 0 46 0 0 0 0 0 1 0 0 0 15500
+9 51 "Paewang Pants" 0 46 0 0 0 0 0 0 0 1 0 16200
+9 52 "Hades Pants" 0 44 0 0 0 1 0 0 0 0 0 15800
+9 53 "Queen pants" 0 80 0 0 0 0 0 0 0 0 3 19500
+9 200 "Goku Pants" 0 39 0 0 0 1 0 0 0 0 0 12700
+9 201 "Goku SSJ Pants" 0 60 0 0 0 1 0 0 0 0 0 15600
+9 202 "Goku SSJ3 Pants" 0 72 0 0 0 1 0 0 0 0 0 17900
+9 203 "Goku SSJ4 Pants" 0 90 0 0 0 1 0 0 0 0 0 20300
+9 204 "Vegeta Pants" 0 48 0 0 0 0 1 0 0 0 0 12800
+9 205 "Vegeta SSJ2 Pants" 0 68 0 0 0 0 1 0 0 0 0 16600
+9 206 "Vegeta SSJ4 Pants" 0 104 0 0 0 0 1 0 0 0 0 22200
+9 207 "Trunks SSJ Pants" 0 59 0 0 0 0 1 0 0 0 0 14700
+9 208 "Goheta SSJ4 Pants" 0 124 0 0 0 0 1 0 0 0 0 24200
+9 209 "Cell Lvl3 Pants" 0 72 0 0 0 0 1 0 0 0 0 17800
+9 210 "Majin Boo Pants" 0 84 0 0 0 1 0 0 0 0 0 20000
+9 211 "Piccolo Pants" 0 61 0 0 0 0 1 0 0 0 0 15700
+9 212 "Naruto Pants" 0 88 0 0 0 0 1 0 0 0 0 19900
+9 213 "Sasuke Pants" 0 80 0 0 0 0 1 0 0 0 0 18800
+9 214 "Itachi Pants" 0 72 0 0 0 1 0 0 0 0 0 17600
+9 215 "Pegasus Pants" 0 57 0 0 0 0 1 0 0 0 0 15900
+9 216 "Dragon (Shyriu) Pants" 0 56 0 0 0 0 1 0 0 0 0 15200
+9 217 "Cygnus (Hyoga) Pants" 0 55 0 0 0 1 0 0 0 0 0 14300
+9 218 "Andromeda (Shun) Pants" 0 52 0 0 0 0 0 1 0 0 1 13300
+9 219 "Phoenix (Ikki) Pants" 0 48 0 0 0 0 0 0 0 1 0 15000
+9 220 "Eagle (Marin) Pants" 0 64 0 0 0 0 0 1 0 0 0 17500
+9 221 "Snake (Shina) Pants" 0 63 0 0 0 0 0 0 0 0 1 15300
+9 222 "Aries Pants" 0 84 0 0 0 1 0 0 0 0 0 19600
+9 223 "Taurus Pants" 0 70 0 0 0 0 1 0 0 0 0 18200
+9 224 "Gemini Pants" 0 93 0 0 0 0 0 0 0 1 0 20900
+9 225 "Cancer Pants" 0 75 0 0 0 1 0 0 0 0 0 18600
+9 226 "Leo Pants" 0 94 0 0 0 0 0 0 0 1 0 20800
+9 227 "Virgo Pants" 0 106 0 0 0 0 1 0 0 0 0 22400
+9 228 "Libra Pants" 0 92 0 0 0 0 1 0 0 0 0 21000
+9 229 "Escorpio Pants" 0 87 0 0 0 1 0 0 0 0 0 20500
+9 230 "Sagittarius Pants" 0 108 0 0 0 0 1 0 0 0 0 22600
+9 231 "Capricorn Pants" 0 88 0 0 0 0 1 0 0 0 0 19900
+9 232 "Acuarius Pants" 0 86 0 0 0 1 0 0 0 0 0 18800
+9 233 "Picis Pants" 0 72 0 0 0 1 0 0 0 0 0 17800
+9 234 "Athena Pants" 0 96 0 0 0 0 0 1 0 0 0 21400
+9 235 "Dragon Marine (Kanon) Pants" 0 112 0 0 0 0 1 0 0 0 0 23000
+9 236 "Poseidon Pants" 0 132 0 0 0 0 1 0 0 0 0 25000
+9 237 "Pandora Pants" 0 109 0 0 0 0 0 0 0 0 1 22700
+9 238 "Balgass Pants" 0 63 0 0 0 0 0 0 0 1 0 15900
+9 239 "Boss Karane Pants" 0 102 0 0 0 0 0 0 1 0 0 22000
+9 240 "Imperial Dragon Pants" 0 66 0 0 0 0 1 0 0 0 0 17000
+9 241 "Galia Pants" 0 111 0 0 0 0 1 0 0 0 0 22900
+9 242 "Eracles Pants" 0 64 0 0 0 0 0 0 1 0 0 17200
+9 243 "Invader Pants" 0 94 0 0 0 0 1 0 0 0 0 21200
+9 244 "Dark Elf Pants" 0 96 0 0 0 0 0 1 0 0 0 21400
+9 245 "Great Demon Pants" 0 66 0 0 0 0 1 0 1 1 0 16600
+9 246 "United Soldier Pants" 0 110 0 0 0 0 1 0 0 0 0 22600
+9 247 "Gold Pants" 0 89 0 0 0 0 1 0 1 0 0 20100
+9 248 "King Omega Pants" 0 84 0 0 0 0 1 0 0 1 0 20200
+9 249 "Titan Pants" 0 92 0 0 0 0 1 0 0 1 0 20400
+9 250 "Guardman Pants" 0 98 0 0 0 0 1 0 1 0 0 20800
+9 251 "China Heavy Pants" 0 96 0 0 0 0 1 0 1 0 0 21400
+9 252 "Cyruss Pants" 0 63 0 0 0 0 1 0 0 0 0 15100
+9 253 "Darkness Dragon Pants" 0 88 0 0 0 1 0 0 0 1 0 19200
+9 254 "Executor Pants" 0 68 0 0 0 0 1 0 1 1 0 15800
+9 255 "Guild Master Pants" 0 77 0 0 0 0 1 0 1 0 0 17300
+9 256 "Guild Dance Pants" 0 65 0 0 0 0 1 0 1 1 0 18100
+9 257 "Hell Maine Pants" 0 98 0 0 0 0 1 0 0 0 0 21600
+9 258 "Hell Red Pants" 0 68 0 0 0 0 0 0 0 1 0 18600
+9 259 "Lord Centurion Pants" 0 74 0 0 0 0 1 0 0 0 0 19100
+9 260 "Lizard God Pants" 0 66 0 0 0 1 0 0 1 0 0 16200
+9 261 "Magma Pants" 0 101 0 0 0 0 1 0 0 0 0 21200
+9 262 "Mecha Pants" 0 64 0 0 0 1 0 0 1 0 0 15200
+9 263 "Osmio Pants" 0 70 0 0 0 0 0 0 0 0 1 17200
+9 264 "Dark Blood Pants" 0 63 0 0 0 1 1 0 0 0 0 15100
+9 265 "Lady Summoner Pants" 0 96 0 0 0 0 0 0 0 0 1 21400
+9 266 "Kato Pants" 0 106 0 0 0 0 1 0 0 0 0 22400
+9 267 "Surprise Pants" 0 60 0 0 0 0 0 1 0 0 0 16400
+9 268 "Death Pants" 0 106 0 0 0 0 0 0 0 0 1 22400
+9 269 "Cobra Pants" 0 62 0 0 0 1 0 0 0 0 0 16000
+9 270 "Apostle Pants" 0 72 0 0 0 0 1 0 0 0 0 17600
+9 271 "Dark Serpent Pants" 0 52 0 0 0 1 0 0 0 1 0 13800
+9 272 "Great Volcano Pants" 0 96 0 0 0 0 0 0 1 0 0 21400
+9 273 "Devil Dragon Pants" 0 79 0 0 0 0 1 0 0 1 0 18900
+9 274 "Ice Knight Pants" 0 72 0 0 0 1 0 0 0 0 0 18600
+9 275 "Dragon God Pants" 0 84 0 0 0 0 0 0 0 1 0 19000
+9 276 "Dead Knight Pants" 0 69 0 0 0 1 0 0 0 0 0 17100
+9 277 "Blood Thristy Pants" 0 116 0 0 0 0 1 0 0 0 0 23400
+9 278 "Lilith Pants" 0 80 0 0 0 0 0 1 0 0 0 18200
+9 279 "Spirit Sorcer Pants" 0 88 0 0 0 1 0 0 0 0 0 20000
+9 280 "Kinght Nightmare Pants" 0 87 0 0 0 1 0 0 0 0 0 19700
+9 281 "Balrog Pants" 0 80 0 0 0 0 1 0 0 0 0 19200
+9 282 "Darkness Dragon Pants" 0 73 0 0 0 0 0 0 0 1 0 17300
+9 283 "Golden Fenir Pants" 0 64 0 0 0 1 0 0 0 0 0 15600
+9 284 "Summoner Pants" 0 80 0 0 0 0 0 0 0 0 1 17600
+9 285 "Kentauro Soul Pants" 0 74 0 0 0 1 0 0 1 1 0 18400
+9 286 "Red Lord Plate Pants" 0 67 0 0 0 0 0 0 0 1 0 17000
+9 287 "Dark Blue Storm Pants" 0 81 0 0 0 0 0 0 1 0 0 19200
+9 288 "Spine Pants" 0 55 0 0 0 0 0 0 1 0 0 13500
+9 289 "Thunder Skull Pants" 0 81 0 0 0 1 0 0 0 0 0 18900
+9 290 "King Skull Pants" 0 87 0 0 0 1 0 0 0 0 0 20100
+9 291 "Darkness Skull Pants" 0 120 0 0 0 0 1 0 1 0 0 23800
+9 292 "Magician Light Pants" 0 62 0 0 0 1 0 0 0 0 0 17000
+9 293 "Red Warrior Pants" 0 76 0 0 0 0 1 0 0 1 0 18800
+9 294 "Blue Star Pants" 0 90 0 0 0 0 0 1 0 0 0 20800
+9 295 "Adhil Pants" 0 88 0 0 0 0 0 0 0 0 1 19200
+9 296 "Mask Cavalier Pants" 0 71 0 0 0 0 1 0 1 1 0 17100
+9 297 "Golden Warrior Pants" 0 67 0 0 0 0 1 0 1 1 0 17700
+9 298 "Prince Pants" 0 62 0 0 0 0 0 0 1 0 0 15000
+9 299 "Arabian Pants" 0 22 0 0 0 1 0 0 0 1 0 8200
+9 300 "Agile Pants" 0 24 0 0 0 1 0 0 0 1 0 8600
+9 301 "Bone Spine Pants" 0 34 0 0 0 0 0 0 1 0 0 10800
+9 302 "Lord Dark Pants" 0 42 0 0 0 1 0 0 0 1 0 12200
+9 303 "Seraphim Pants" 0 88 0 0 0 0 0 1 0 0 0 19200
+10 0 "Bronze Gloves" 0 4 0 0 0 0 1 0 1 1 0 1700
+10 1 "Dragon Gloves" 0 14 0 0 0 0 1 0 1 0 0 6600
+10 2 "Pad Gloves" 0 2 0 0 0 1 0 0 1 0 0 500
+10 3 "Legendary Gloves" 0 11 0 0 0 1 0 0 1 0 0 5500
+10 4 "Bone Gloves" 0 5 0 0 0 1 0 0 1 0 0 1900
+10 5 "Leather Gloves" 0 2 0 0 0 0 1 0 1 1 0 600
+10 6 "Scale Gloves" 0 7 0 0 0 0 1 0 1 1 0 2900
+10 7 "Sphinx Gloves" 0 8 0 0 0 1 0 0 1 0 0 3600
+10 8 "Brass Gloves" 0 9 0 0 0 0 1 0 1 0 0 4100
+10 9 "Plate Gloves" 0 12 0 0 0 0 1 0 1 0 0 5400
+10 10 "Vine Gloves" 0 2 0 0 0 0 0 1 0 0 0 600
+10 11 "Silk Gloves" 0 4 0 0 0 0 0 1 0 0 0 1800
+10 12 "Wind Gloves" 0 6 0 0 0 0 0 1 0 0 0 3200
+10 13 "Spirit Gloves" 0 9 0 0 0 0 0 1 0 0 0 4700
+10 14 "Guardian Gloves" 0 15 0 0 0 0 0 1 0 0 0 6500
+10 15 "Storm Crow Gloves" 0 20 0 0 0 0 0 0 1 0 0 9000
+10 16 "Black Dragon Gloves" 0 22 0 0 0 0 1 0 0 0 0 9800
+10 17 "Dark Phoenix Gloves" 0 37 0 0 0 0 2 0 0 0 0 12300
+10 18 "Grand Soul Gloves" 0 20 0 0 0 2 0 0 0 0 0 9000
+10 19 "Divine Gloves" 0 29 0 0 0 0 0 2 0 0 0 10100
+10 20 "Thunder Hawk Gloves" 0 34 0 0 0 0 0 0 1 0 0 12200
+10 21 "Great Dragon Gloves" 0 48 0 0 0 0 2 0 0 0 0 14200
+10 22 "Dark Soul Gloves" 0 30 0 0 0 2 0 0 0 0 0 11700
+10 23 "Hurricane Gloves" 0 45 0 0 0 0 0 0 1 0 0 14700
+10 24 "Red Spirit Gloves" 0 38 0 0 0 0 0 2 0 0 0 12200
+10 25 "Light Plate Gloves" 0 12 0 0 0 0 0 0 0 1 0 5400
+10 26 "Adamantine Gloves" 0 18 0 0 0 0 0 0 0 1 0 7500
+10 27 "Dark Steel Gloves" 0 21 0 0 0 0 0 0 0 1 0 9600
+10 28 "Dark Master Gloves" 0 29 0 0 0 0 0 0 0 1 0 11800
+10 29 "Dragon Knight Gloves" 0 60 0 0 0 0 2 0 0 0 0 17400
+10 30 "Venom Mist Gloves" 0 44 0 0 0 2 0 0 0 0 0 15500
+10 31 "Sylphid Ray Gloves" 0 50 0 0 0 0 0 2 0 0 0 16100
+10 32 "Volcano Gloves" 0 55 0 0 0 0 0 0 1 0 0 18200
+10 33 "Sunlight Gloves" 0 40 0 0 0 0 0 0 0 1 0 15000
+10 34 "Ashcrow Gloves" 0 18 0 0 0 0 1 0 0 0 0 7900
+10 35 "Eclipse Gloves" 0 15 0 0 0 1 0 0 0 0 0 7600
+10 36 "Iris Gloves" 0 22 0 0 0 0 0 1 0 0 0 8300
+10 37 "Valiant Gloves" 0 27 0 0 0 0 0 0 1 0 0 11800
+10 38 "Glorious Gloves" 0 25 0 0 0 0 0 0 0 1 0 11600
+10 39 "Mistery Gloves" 0 9 0 0 0 0 0 0 0 0 1 3300
+10 40 "Red Wing Gloves" 0 13 0 0 0 0 0 0 0 0 1 5700
+10 41 "Ancient Gloves" 0 19 0 0 0 0 0 0 0 0 1 8000
+10 42 "Black Rose Gloves" 0 26 0 0 0 0 0 0 0 0 2 9600
+10 43 "Aura Gloves" 0 34 0 0 0 0 0 0 0 0 2 12100
+10 44 "Lilium Gloves" 0 45 0 0 0 0 0 0 0 0 2 12700
+10 45 "Titan Gloves" 0 56 0 0 0 0 1 0 0 0 0 15600
+10 46 "Brave Gloves" 0 42 0 0 0 0 1 0 0 0 0 13900
+10 47 "Destory Gloves" 0 49 0 0 0 0 0 0 1 0 0 15000
+10 48 "Phantom Gloves" 0 40 0 0 0 0 0 0 1 0 0 13900
+10 49 "Seraphim Gloves" 0 43 0 0 0 0 0 1 0 0 0 14300
+10 50 "Faith Gloves" 0 36 0 0 0 0 0 1 0 0 0 13100
+10 51 "Paewang Gloves" 0 34 0 0 0 0 0 0 0 1 0 13500
+10 52 "Hades Gloves" 0 31 0 0 0 1 0 0 0 0 0 13100
+10 53 "Queen Gloves" 0 80 0 0 0 0 0 0 0 0 3 17800
+10 200 "Goku Gloves" 0 27 0 0 0 1 0 0 0 0 0 10400
+10 201 "Goku SSJ Gloves" 0 41 0 0 0 1 0 0 0 0 0 12500
+10 202 "Goku SSJ3 Gloves" 0 50 0 0 0 1 0 0 0 0 0 14400
+10 203 "Goku SSJ4 Gloves" 0 62 0 0 0 1 0 0 0 0 0 16100
+10 204 "Vegeta Gloves" 0 33 0 0 0 0 1 0 0 0 0 10300
+10 205 "Vegeta SSJ2 Gloves" 0 47 0 0 0 0 1 0 0 0 0 13200
+10 206 "Vegeta SSJ4 Gloves" 0 72 0 0 0 0 1 0 0 0 0 17500
+10 207 "Trunks SSJ Gloves" 0 41 0 0 0 0 1 0 0 0 0 11800
+10 208 "Goheta SSJ4 Gloves" 0 85 0 0 0 0 1 0 0 0 0 18800
+10 209 "Cell Lvl3 Gloves" 0 50 0 0 0 0 1 0 0 0 0 14200
+10 210 "Majin Boo Gloves" 0 58 0 0 0 1 0 0 0 0 0 16000
+10 211 "Piccolo Gloves" 0 42 0 0 0 0 1 0 0 0 0 12600
+10 212 "Naruto Gloves" 0 61 0 0 0 0 1 0 0 0 0 15800
+10 213 "Sasuke Gloves" 0 55 0 0 0 0 1 0 0 0 0 14900
+10 214 "Itachi Gloves" 0 50 0 0 0 1 0 0 0 0 0 14100
+10 215 "Pegasus Gloves" 0 39 0 0 0 0 1 0 0 0 0 12900
+10 216 "Dragon (Shyriu) Gloves" 0 70 0 0 0 0 1 0 0 0 0 15400
+10 217 "Cygnus (Hyoga) Gloves" 0 70 0 0 0 1 0 0 0 0 0 14700
+10 218 "Andromeda (Shun) Gloves" 0 36 0 0 0 0 0 1 0 0 1 10700
+10 219 "Phoenix (Ikki) Gloves" 0 33 0 0 0 0 0 0 0 1 0 12300
+10 220 "Eagle (Marin) Gloves" 0 44 0 0 0 0 0 1 0 0 0 14100
+10 221 "Snake (Shina) Gloves" 0 43 0 0 0 0 0 0 0 0 1 12100
+10 222 "Aries Gloves" 0 58 0 0 0 1 0 0 0 0 0 15600
+10 223 "Taurus Gloves" 0 48 0 0 0 0 1 0 0 0 0 14600
+10 224 "Gemini Gloves" 0 64 0 0 0 0 0 0 0 1 0 16600
+10 225 "Cancer Gloves" 0 52 0 0 0 1 0 0 0 0 0 14900
+10 226 "Leo Gloves" 0 64 0 0 0 0 0 0 0 1 0 16400
+10 227 "Virgo Gloves" 0 73 0 0 0 0 1 0 0 0 0 17600
+10 228 "Libra Gloves" 0 115 0 0 0 0 1 0 0 0 0 21800
+10 229 "Escorpio Gloves" 0 60 0 0 0 1 0 0 0 0 0 16300
+10 230 "Sagittarius Gloves" 0 74 0 0 0 0 1 0 0 0 0 17700
+10 231 "Capricorn Gloves" 0 61 0 0 0 0 1 0 0 0 0 15800
+10 232 "Acuarius Gloves" 0 59 0 0 0 1 0 0 0 0 0 14900
+10 233 "Picis Gloves" 0 50 0 0 0 1 0 0 0 0 0 14200
+10 234 "Athena Gloves" 0 66 0 0 0 0 0 1 0 0 0 16900
+10 235 "Dragon Marine (Kanon) Gloves" 0 77 0 0 0 0 1 0 0 0 0 18000
+10 236 "Poseidon Gloves" 0 91 0 0 0 0 1 0 0 0 0 19400
+10 237 "Pandora Gloves" 0 75 0 0 0 0 0 0 0 0 1 17800
+10 238 "Balgass Gloves" 0 43 0 0 0 0 0 0 0 1 0 12700
+10 239 "Boss Karane Gloves" 0 70 0 0 0 0 0 0 1 0 0 17300
+10 240 "Imperial Dragon Gloves" 0 45 0 0 0 0 1 0 0 0 0 13600
+10 241 "Galia Gloves" 0 76 0 0 0 0 1 0 0 0 0 17900
+10 242 "Eracles Gloves" 0 44 0 0 0 0 0 0 1 0 0 13800
+10 243 "Invader Gloves" 0 65 0 0 0 0 1 0 0 0 0 16800
+10 244 "Dark Elf Gloves" 0 66 0 0 0 0 0 1 0 0 0 16900
+10 245 "Great Demon Gloves" 0 45 0 0 0 0 1 0 1 1 0 13300
+10 246 "United Soldier Gloves" 0 76 0 0 0 0 1 0 0 0 0 17800
+10 247 "Gold Gloves" 0 61 0 0 0 0 1 0 1 0 0 15900
+10 248 "King Omega Gloves" 0 58 0 0 0 0 1 0 0 1 0 16100
+10 249 "Titan Gloves" 0 63 0 0 0 0 1 0 0 1 0 16100
+10 250 "Guardman Gloves" 0 68 0 0 0 0 1 0 1 0 0 16500
+10 251 "China Heavy Gloves" 0 66 0 0 0 0 1 0 1 0 0 16900
+10 252 "Cyruss Gloves" 0 43 0 0 0 0 1 0 0 0 0 12000
+10 253 "Darkness Dragon Gloves" 0 61 0 0 0 1 0 0 0 1 0 15200
+10 254 "Executor Gloves" 0 47 0 0 0 0 1 0 1 1 0 12500
+10 255 "Guild Master Gloves" 0 53 0 0 0 0 1 0 1 0 0 13700
+10 256 "Guild Dance Gloves" 0 45 0 0 0 0 1 0 1 1 0 14700
+10 257 "Hell Maine Gloves" 0 68 0 0 0 0 1 0 0 0 0 17100
+10 258 "Hell Red Gloves" 0 47 0 0 0 0 0 0 0 1 0 15000
+10 259 "Lord Centurion Gloves" 0 51 0 0 0 0 1 0 0 0 0 15300
+10 260 "Lizard God Gloves" 0 46 0 0 0 1 0 0 1 0 0 13000
+10 261 "Magma Gloves" 0 69 0 0 0 0 1 0 0 0 0 16600
+10 262 "Mecha Gloves" 0 44 0 0 0 1 0 0 1 0 0 12100
+10 263 "Osmio Gloves" 0 48 0 0 0 0 0 0 0 0 1 13800
+10 264 "Dark Blood Gloves" 0 43 0 0 0 1 1 0 0 0 0 12000
+10 265 "Lady Summoner Gloves" 0 66 0 0 0 0 0 0 0 0 1 16900
+10 266 "Kato Gloves" 0 73 0 0 0 0 1 0 0 0 0 17600
+10 267 "Surprise Gloves" 0 41 0 0 0 0 0 1 0 0 0 13200
+10 268 "Death Gloves" 0 73 0 0 0 0 0 0 0 0 1 17600
+10 269 "Cobra Gloves" 0 43 0 0 0 1 0 0 0 0 0 12800
+10 270 "Apostle Gloves" 0 50 0 0 0 0 1 0 0 0 0 14100
+10 271 "Dark Serpent Gloves" 0 36 0 0 0 1 0 0 0 1 0 11200
+10 272 "Great Volcano Gloves" 0 66 0 0 0 0 0 0 1 0 0 16900
+10 273 "Devil Dragon Gloves" 0 54 0 0 0 0 1 0 0 1 0 15100
+10 274 "Ice Knight Gloves" 0 50 0 0 0 1 0 0 0 0 0 15000
+10 275 "Dragon God Gloves" 0 58 0 0 0 0 0 0 0 1 0 15100
+10 276 "Dead Knight Gloves" 0 47 0 0 0 1 0 0 0 0 0 13600
+10 277 "Blood Thristy Gloves" 0 80 0 0 0 0 1 0 0 0 0 18300
+10 278 "Lilith Gloves" 0 55 0 0 0 0 0 1 0 0 0 14500
+10 279 "Spirit Sorcer Gloves" 0 61 0 0 0 1 0 0 0 0 0 15900
+10 280 "Kinght Nightmare Gloves" 0 60 0 0 0 1 0 0 0 0 0 15700
+10 281 "Balrog Gloves" 0 55 0 0 0 0 1 0 0 0 0 15300
+10 282 "Darkness Dragon Gloves" 0 50 0 0 0 0 0 0 0 1 0 13800
+10 283 "Golden Fenir Gloves" 0 44 0 0 0 1 0 0 0 0 0 12400
+10 284 "Summoner Gloves" 0 55 0 0 0 0 0 0 0 0 1 13900
+10 285 "Kentauro Soul Gloves" 0 51 0 0 0 1 0 0 1 1 0 14800
+10 286 "Red Lord Plate Gloves" 0 46 0 0 0 0 0 0 0 1 0 13600
+10 287 "Dark Blue Storm Gloves" 0 56 0 0 0 0 0 0 1 0 0 15300
+10 288 "Spine Gloves" 0 38 0 0 0 0 0 0 1 0 0 10800
+10 289 "Thunder Skull Gloves" 0 56 0 0 0 1 0 0 0 0 0 15000
+10 290 "King Skull Gloves" 0 60 0 0 0 1 0 0 0 0 0 16000
+10 291 "Darkness Skull Gloves" 0 82 0 0 0 0 1 0 1 0 0 18500
+10 292 "Magician Light Gloves" 0 42 0 0 0 1 0 0 0 0 0 13600
+10 293 "Red Warrior Gloves" 0 52 0 0 0 0 1 0 0 1 0 15000
+10 294 "Blue Star Gloves" 0 62 0 0 0 0 0 1 0 0 0 16500
+10 295 "Adhil Gloves" 0 61 0 0 0 0 0 0 0 0 1 15200
+10 296 "Mask Cavalier Gloves" 0 49 0 0 0 0 1 0 1 1 0 13700
+10 297 "Golden Warrior Gloves" 0 46 0 0 0 0 1 0 1 1 0 14300
+10 298 "Prince Gloves" 0 42 0 0 0 0 0 0 1 0 0 11900
+10 299 "Arabian Gloves" 0 15 0 0 0 1 0 0 0 1 0 6700
+10 300 "Agile Gloves" 0 16 0 0 0 1 0 0 0 1 0 7100
+10 301 "Bone Spine Gloves" 0 23 0 0 0 0 0 0 1 0 0 8700
+10 302 "Lord Dark Gloves" 0 29 0 0 0 1 0 0 0 1 0 9900
+10 303 "Seraphim Gloves" 0 61 0 0 0 0 0 1 0 0 0 15200
+11 0 "Bronze Boots" 0 4 0 0 0 0 1 0 1 1 0 1600
+11 1 "Dragon Boots" 0 15 0 0 0 0 1 0 1 0 0 6900
+11 2 "Pad Boots" 0 3 0 0 0 1 0 0 1 0 0 700
+11 3 "Legendary Boots" 0 12 0 0 0 1 0 0 1 0 0 5800
+11 4 "Bone Boots" 0 6 0 0 0 1 0 0 1 0 0 2200
+11 5 "Leather Boots" 0 2 0 0 0 0 1 0 1 1 0 700
+11 6 "Scale Boots" 0 8 0 0 0 0 1 0 1 1 0 3000
+11 7 "Sphinx Boots" 0 9 0 0 0 1 0 0 1 0 0 3900
+11 8 "Brass Boots" 0 10 0 0 0 0 1 0 1 0 0 4200
+11 9 "Plate Boots" 0 12 0 0 0 0 1 0 1 0 0 5400
+11 10 "Vine Boots" 0 2 0 0 0 0 0 1 0 0 0 700
+11 11 "Silk Boots" 0 4 0 0 0 0 0 1 0 0 0 1900
+11 12 "Wind Boots" 0 7 0 0 0 0 0 1 0 0 0 3400
+11 13 "Spirit Boots" 0 10 0 0 0 0 0 1 0 0 0 5000
+11 14 "Guardian Boots" 0 16 0 0 0 0 0 1 0 0 0 6800
+11 15 "Storm Crow Boots" 0 22 0 0 0 0 0 0 1 0 0 9400
+11 16 "Black Dragon Boots" 0 24 0 0 0 0 1 0 0 0 0 10200
+11 17 "Dark Phoenix Boots" 0 40 0 0 0 0 2 0 0 0 0 13300
+11 18 "Grand Soul Boots" 0 22 0 0 0 2 0 0 0 0 0 9800
+11 19 "Divine Boots" 0 30 0 0 0 0 0 2 0 0 0 11100
+11 20 "Thunder Hawk Boots" 0 37 0 0 0 0 0 0 1 0 0 12900
+11 21 "Great Dragon Boots" 0 50 0 0 0 0 2 0 0 0 0 14800
+11 22 "Dark Soul Boots" 0 31 0 0 0 2 0 0 0 0 0 12600
+11 23 "Hurricane Boots" 0 50 0 0 0 0 0 0 1 0 0 16000
+11 24 "Red Spirit Boots" 0 40 0 0 0 0 0 2 0 0 0 12700
+11 25 "Light Plate Boots" 0 13 0 0 0 0 0 0 0 1 0 5800
+11 26 "Adamantine Boots" 0 20 0 0 0 0 0 0 0 1 0 8000
+11 27 "Dark Steel Boots" 0 25 0 0 0 0 0 0 0 1 0 10800
+11 28 "Dark Master Boots" 0 33 0 0 0 0 0 0 0 1 0 12800
+11 29 "Dragon Knight Boots" 0 63 0 0 0 0 2 0 0 0 0 18200
+11 30 "Venom Mist Boots" 0 47 0 0 0 2 0 0 0 0 0 16600
+11 31 "Sylphid Ray Boots" 0 53 0 0 0 0 0 2 0 0 0 17200
+11 32 "Volcano Boots" 0 61 0 0 0 0 0 0 1 0 0 19200
+11 33 "Sunlight Boots" 0 44 0 0 0 0 0 0 0 1 0 16500
+11 34 "Ashcrow Boots" 0 19 0 0 0 0 1 0 0 0 0 8700
+11 35 "Eclipse Boots" 0 17 0 0 0 1 0 0 0 0 0 8500
+11 36 "Iris Boots" 0 23 0 0 0 0 0 1 0 0 0 9100
+11 37 "Valiant Boots" 0 29 0 0 0 0 0 0 1 0 0 12700
+11 38 "Glorious Boots" 0 29 0 0 0 0 0 0 0 1 0 12700
+11 39 "Mistery Boots" 0 11 0 0 0 0 0 0 0 0 1 3700
+11 40 "Red Wing Boots" 0 15 0 0 0 0 0 0 0 0 1 6100
+11 41 "Ancient Boots" 0 21 0 0 0 0 0 0 0 0 1 8600
+11 42 "Black Rose Boots" 0 28 0 0 0 0 0 0 0 0 2 10400
+11 43 "Aura Boots" 0 38 0 0 0 0 0 0 0 0 2 13300
+11 44 "Lilium Boots" 0 50 0 0 0 0 0 0 0 0 2 14000
+11 45 "Titan Boots" 0 57 0 0 0 0 1 0 0 0 0 15300
+11 46 "Brave Boots" 0 45 0 0 0 0 1 0 0 0 0 13800
+11 47 "Destory Boots" 0 54 0 0 0 0 0 0 1 0 0 15100
+11 48 "Phantom Boots" 0 44 0 0 0 0 0 0 1 0 0 13800
+11 49 "Seraphim Boots" 0 42 0 0 0 0 0 1 0 0 0 13900
+11 50 "Faith Boots" 0 35 0 0 0 0 0 1 0 0 0 12700
+11 51 "Phaewang Boots" 0 38 0 0 0 0 0 0 0 1 0 13600
+11 52 "Hades Boots" 0 34 0 0 0 1 0 0 0 0 0 12800
+11 53 "Queen Boots" 0 80 0 0 0 0 0 0 0 0 3 17700
+11 200 "Goku Boots" 0 29 0 0 0 1 0 0 0 0 0 9500
+11 201 "Goku SSJ Boots" 0 45 0 0 0 1 0 0 0 0 0 11700
+11 202 "Goku SSJ3 Boots" 0 54 0 0 0 1 0 0 0 0 0 13400
+11 203 "Goku SSJ4 Boots" 0 67 0 0 0 1 0 0 0 0 0 15200
+11 204 "Vegeta Boots" 0 36 0 0 0 0 1 0 0 0 0 9600
+11 205 "Vegeta SSJ2 Boots" 0 51 0 0 0 0 1 0 0 0 0 12400
+11 206 "Vegeta SSJ4 Boots" 0 78 0 0 0 0 1 0 0 0 0 16600
+11 207 "Trunks SSJ Boots" 0 44 0 0 0 0 1 0 0 0 0 11000
+11 208 "Goheta SSJ4 Boots" 0 93 0 0 0 0 1 0 0 0 0 18100
+11 209 "Cell Lvl3 Boots" 0 54 0 0 0 0 1 0 0 0 0 13300
+11 210 "Majin Boo Boots" 0 63 0 0 0 1 0 0 0 0 0 15000
+11 211 "Piccolo Boots" 0 46 0 0 0 0 1 0 0 0 0 11800
+11 212 "Naruto Boots" 0 66 0 0 0 0 1 0 0 0 0 14900
+11 213 "Sasuke Boots" 0 60 0 0 0 0 1 0 0 0 0 14100
+11 214 "Itachi Boots" 0 54 0 0 0 1 0 0 0 0 0 13200
+11 215 "Pegasus Boots" 0 43 0 0 0 0 1 0 0 0 0 12000
+11 216 "Dragon (Shyriu) Boots" 0 42 0 0 0 0 1 0 0 0 0 11400
+11 217 "Cygnus (Hyoga) Boots" 0 41 0 0 0 1 0 0 0 0 0 10700
+11 218 "Andromeda (Shun) Boots" 0 39 0 0 0 0 0 1 0 0 1 10000
+11 219 "Phoenix (Ikki) Boots" 0 36 0 0 0 0 0 0 0 1 0 11300
+11 220 "Eagle (Marin) Boots" 0 48 0 0 0 0 0 1 0 0 0 13100
+11 221 "Snake (Shina) Boots" 0 47 0 0 0 0 0 0 0 0 1 11400
+11 222 "Aries Boots" 0 63 0 0 0 1 0 0 0 0 0 14700
+11 223 "Taurus Boots" 0 53 0 0 0 0 1 0 0 0 0 13700
+11 224 "Gemini Boots" 0 70 0 0 0 0 0 0 0 1 0 15700
+11 225 "Cancer Boots" 0 56 0 0 0 1 0 0 0 0 0 13900
+11 226 "Leo Boots" 0 70 0 0 0 0 0 0 0 1 0 15600
+11 227 "Virgo Boots" 0 80 0 0 0 0 1 0 0 0 0 16800
+11 228 "Libra Boots" 0 69 0 0 0 0 1 0 0 0 0 15700
+11 229 "Escorpio Boots" 0 65 0 0 0 1 0 0 0 0 0 15300
+11 230 "Sagittarius Boots" 0 81 0 0 0 0 1 0 0 0 0 16900
+11 231 "Capricorn Boots" 0 66 0 0 0 0 1 0 0 0 0 14900
+11 232 "Acuarius Boots" 0 65 0 0 0 1 0 0 0 0 0 14200
+11 233 "Picis Boots" 0 54 0 0 0 1 0 0 0 0 0 13300
+11 234 "Athena Boots" 0 72 0 0 0 0 0 1 0 0 0 16000
+11 235 "Dragon Marine (Kanon) Boots" 0 84 0 0 0 0 1 0 0 0 0 17200
+11 236 "Poseidon Boots" 0 99 0 0 0 0 1 0 0 0 0 18700
+11 237 "Pandora Boots" 0 82 0 0 0 0 0 0 0 0 1 17000
+11 238 "Balgass Boots" 0 47 0 0 0 0 0 0 0 1 0 11900
+11 239 "Boss Karane Boots" 0 76 0 0 0 0 0 0 1 0 0 16400
+11 240 "Imperial Dragon Boots" 0 49 0 0 0 0 1 0 0 0 0 12700
+11 241 "Galia Boots" 0 83 0 0 0 0 1 0 0 0 0 17100
+11 242 "Eracles Boots" 0 48 0 0 0 0 0 0 1 0 0 12900
+11 243 "Invader Boots" 0 71 0 0 0 0 1 0 0 0 0 15900
+11 244 "Dark Elf Boots" 0 72 0 0 0 0 0 1 0 0 0 16000
+11 245 "Great Demon Boots" 0 49 0 0 0 0 1 0 1 1 0 12400
+11 246 "United Soldier Boots" 0 83 0 0 0 0 1 0 0 0 0 17000
+11 247 "Gold Boots" 0 67 0 0 0 0 1 0 1 0 0 15100
+11 248 "King Omega Boots" 0 63 0 0 0 0 1 0 0 1 0 15100
+11 249 "Titan Boots" 0 69 0 0 0 0 1 0 0 1 0 15300
+11 250 "Guardman Boots" 0 74 0 0 0 0 1 0 1 0 0 15700
+11 251 "China Heavy Boots" 0 72 0 0 0 0 1 0 1 0 0 16000
+11 252 "Cyruss Boots" 0 47 0 0 0 0 1 0 0 0 0 11300
+11 253 "Darkness Dragon Boots" 0 66 0 0 0 1 0 0 0 1 0 14400
+11 254 "Executor Boots" 0 51 0 0 0 0 1 0 1 1 0 11800
+11 255 "Guild Master Boots" 0 58 0 0 0 0 1 0 1 0 0 13000
+11 256 "Guild Dance Boots" 0 49 0 0 0 0 1 0 1 1 0 13600
+11 257 "Hell Maine Boots" 0 74 0 0 0 0 1 0 0 0 0 16200
+11 258 "Hell Red Boots" 0 51 0 0 0 0 0 0 0 1 0 13900
+11 259 "Lord Centurion Boots" 0 56 0 0 0 0 1 0 0 0 0 14400
+11 260 "Lizard God Boots" 0 50 0 0 0 1 0 0 1 0 0 12200
+11 261 "Magma Boots" 0 76 0 0 0 0 1 0 0 0 0 15900
+11 262 "Mecha Boots" 0 48 0 0 0 1 0 0 1 0 0 11400
+11 263 "Osmio Boots" 0 52 0 0 0 0 0 0 0 0 1 12900
+11 264 "Dark Blood Boots" 0 47 0 0 0 1 1 0 0 0 0 11300
+11 265 "Lady Summoner Boots" 0 72 0 0 0 0 0 0 0 0 1 16000
+11 266 "Kato Boots" 0 80 0 0 0 0 1 0 0 0 0 16800
+11 267 "Surprise Boots" 0 45 0 0 0 0 0 1 0 0 0 12300
+11 268 "Death Boots" 0 80 0 0 0 0 0 0 0 0 1 16800
+11 269 "Cobra Boots" 0 47 0 0 0 1 0 0 0 0 0 12000
+11 270 "Apostle Boots" 0 54 0 0 0 0 1 0 0 0 0 13200
+11 271 "Dark Serpent Boots" 0 39 0 0 0 1 0 0 0 1 0 10400
+11 272 "Great Volcano Boots" 0 72 0 0 0 0 0 0 1 0 0 16000
+11 273 "Devil Dragon Boots" 0 59 0 0 0 0 1 0 0 1 0 14200
+11 274 "Ice Knight Boots" 0 54 0 0 0 1 0 0 0 0 0 14000
+11 275 "Dragon God Boots" 0 63 0 0 0 0 0 0 0 1 0 14300
+11 276 "Dead Knight Boots" 0 52 0 0 0 1 0 0 0 0 0 12800
+11 277 "Blood Thristy Boots" 0 87 0 0 0 0 1 0 0 0 0 17500
+11 278 "Lilith Boots" 0 60 0 0 0 0 0 1 0 0 0 13700
+11 279 "Spirit Sorcer Boots" 0 66 0 0 0 1 0 0 0 0 0 15000
+11 280 "Kinght Nightmare Boots" 0 65 0 0 0 1 0 0 0 0 0 14800
+11 281 "Balrog Boots" 0 60 0 0 0 0 1 0 0 0 0 14400
+11 282 "Darkness Dragon Boots" 0 55 0 0 0 0 0 0 0 1 0 13000
+11 283 "Golden Fenir Boots" 0 48 0 0 0 1 0 0 0 0 0 11700
+11 284 "Summoner Boots" 0 60 0 0 0 0 0 0 0 0 1 13200
+11 285 "Kentauro Soul Boots" 0 56 0 0 0 1 0 0 1 1 0 13900
+11 286 "Red Lord Plate Boots" 0 50 0 0 0 0 0 0 0 1 0 12700
+11 287 "Dark Blue Storm Boots" 0 61 0 0 0 0 0 0 1 0 0 14400
+11 288 "Spine Boots" 0 41 0 0 0 0 0 0 1 0 0 10100
+11 289 "Thunder Skull Boots" 0 61 0 0 0 1 0 0 0 0 0 14200
+11 290 "King Skull Boots" 0 65 0 0 0 1 0 0 0 0 0 15100
+11 291 "Darkness Skull Boots" 0 90 0 0 0 0 1 0 1 0 0 17800
+11 292 "Magician Light Boots" 0 46 0 0 0 1 0 0 0 0 0 12700
+11 293 "Red Warrior Boots" 0 57 0 0 0 0 1 0 0 1 0 14100
+11 294 "Blue Star Boots" 0 68 0 0 0 0 0 1 0 0 0 15600
+11 295 "Adhil Boots" 0 66 0 0 0 0 0 0 0 0 1 14400
+11 296 "Mask Cavalier Boots" 0 53 0 0 0 0 1 0 1 1 0 12800
+11 297 "Golden Warrior Boots" 0 50 0 0 0 0 1 0 1 1 0 13300
+11 298 "Prince Boots" 0 46 0 0 0 0 0 0 1 0 0 11200
+11 299 "Arabian Boots" 0 16 0 0 0 1 0 0 0 1 0 6100
+11 300 "Agile Boots" 0 18 0 0 0 1 0 0 0 1 0 6500
+11 301 "Bone Spine Boots" 0 25 0 0 0 0 0 0 1 0 0 8000
+11 302 "Lord Dark Boots" 0 31 0 0 0 1 0 0 0 1 0 9100
+11 303 "Seraphim Boots" 0 66 0 0 0 0 0 1 0 0 0 14400
+12 0 "Wings of Elf" 0 10 0 0 0 0 0 1 0 0 0 15810
+12 1 "Wings of Heaven" 0 10 0 0 0 1 0 0 1 0 0 15810
+12 2 "Wings of Satan" 0 20 0 0 0 0 1 0 1 0 0 25110
+12 3 "Wings of Spirits" 0 30 0 0 0 0 0 2 0 0 0 34410
+12 4 "Wings of Soul" 0 30 0 0 0 2 0 0 0 0 0 34410
+12 5 "Wings of Dragon" 0 45 0 0 0 0 2 0 0 0 0 48360
+12 6 "Wings of Darkness" 0 40 0 0 0 0 0 0 1 0 0 43710
+12 36 "Wing of Storm" 0 60 0 0 0 0 3 0 0 0 0 62310
+12 37 "Wing of Vortex" 0 45 0 0 0 3 0 0 0 0 0 48360
+12 38 "Wing of Illusion" 0 45 0 0 0 0 0 3 0 0 0 48360
+12 39 "Wing of Doom" 0 55 0 0 0 0 0 0 3 0 0 57660
+12 40 "Mantle of Monarch" 0 45 0 0 0 0 0 0 0 3 0 48360
+12 41 "Wing of Mistery" 0 10 0 0 0 0 0 0 0 0 1 15810
+12 42 "Wing of Despair" 0 30 0 0 0 0 0 0 0 0 2 34410
+12 43 "Wing of Violent Wind" 0 45 0 0 0 0 0 0 0 0 3 48360
+12 49 "Wing of Mistery" 0 10 0 0 0 0 0 0 0 0 1 15810
+12 200 "Wing of Archangel" 0 60 0 0 0 3 0 0 0 0 0 62310
+12 201 "Wing of Ghost" 0 75 0 0 0 0 3 0 0 0 0 76260
+12 202 "Wing of Divine" 0 60 0 0 0 0 0 3 0 0 0 62310
+12 203 "Wing of Glorious" 0 70 0 0 0 0 0 0 3 0 0 71610
+12 204 "Wing of Raven" 0 60 0 0 0 0 0 0 0 3 0 62310
+12 205 "Wing of Illusive" 0 60 0 0 0 0 0 0 0 0 3 62310
+12 211 "Wing of Ganger" 0 43 0 0 0 2 0 0 0 0 0 46500
+12 207 "Wing of Imperial Dragon" 0 55 0 0 0 0 2 0 0 0 0 57660
+12 208 "Wing of Great Fairy" 0 43 0 0 0 0 0 2 0 0 0 46500
+12 209 "Wing of Zephyr" 0 50 0 0 0 0 0 0 1 0 0 53010
+12 210 "Cape of Kundun" 0 43 0 0 0 0 0 0 0 1 0 46500
+12 213 "Nightmare Wheel" 0 43 0 0 0 0 0 0 0 0 2 46500
+12 212 "Wing of Red Dragon" 0 47 0 0 0 0 2 0 1 0 0 50220
+12 215 "Wing of Devil Knight" 0 37 0 0 0 0 0 0 0 1 0 40920
+12 217 "Wing of Born" 0 37 0 0 0 0 0 0 1 0 0 40920
+12 214 "Wing of Eagle" 0 37 0 0 0 2 0 0 0 0 0 40920
+12 206 "Wing of Hell Maine" 0 80 0 0 0 0 3 0 0 0 0 80910
+12 216 "Wing of Galia Dragon" 0 90 0 0 0 0 3 0 0 0 0 90210
+12 218 "Wing of Blood Thirsty" 0 96 0 0 0 0 3 0 0 0 0 95790
+13 30 "Cape of Lord" 0 0 0 0 0 0 0 0 0 1 0 6510
+end
