@@ -1,0 +1,6 @@
+1
+//Name		Index
+"Training DW"	0
+"Combat BK"	1
+"Combat Elf"	2
+end
